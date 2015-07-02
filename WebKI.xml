@@ -76,13 +76,13 @@
   <HelpKINode Title="BufferingProgress property">
     <HelpKINode Title="IMediaRenderer.BufferingProgress Property " Url="html/e605bb02-754a-5d3f-ea40-74185223e2b4.htm" />
     <HelpKINode Title="MediaElementRenderer.BufferingProgress Property " Url="html/f49c9ac0-ee88-e4d0-248c-955e426ee7cb.htm" />
-    <HelpKINode Title="VeePlayRenderer.BufferingProgress Property " Url="html/ad3c7e87-2df1-fd45-3e84-2905ce2b9cfa.htm" />
+    <HelpKINode Title="VeeplayRenderer.BufferingProgress Property " Url="html/6402534f-d3d7-502c-2472-420050fb2d76.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.BufferingProgress Property " Url="html/fdcd3a64-0f7b-b205-be21-94f220a2ba4d.htm" />
   </HelpKINode>
   <HelpKINode Title="BufferingUpdateEvent event">
     <HelpKINode Title="IMediaRenderer.BufferingUpdateEvent Event" Url="html/b877dac9-a97f-fa85-86c9-76730b74aaac.htm" />
     <HelpKINode Title="MediaElementRenderer.BufferingUpdateEvent Event" Url="html/9969374a-e8c9-1fd7-69d5-134a5afecea4.htm" />
-    <HelpKINode Title="VeePlayRenderer.BufferingUpdateEvent Event" Url="html/49730689-f876-2108-57d8-cfec0192a2ef.htm" />
+    <HelpKINode Title="VeeplayRenderer.BufferingUpdateEvent Event" Url="html/87774c14-0354-75d1-718d-247a475065ba.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.BufferingUpdateEvent Event" Url="html/813aa666-74a6-2f71-9e7f-7391e578fdf4.htm" />
   </HelpKINode>
   <HelpKINode Title="BUFFER_END enumeration member" Url="html/98546368-5f20-726f-56da-e986863b857b.htm" />
@@ -208,7 +208,7 @@
   <HelpKINode Title="CurrentState property">
     <HelpKINode Title="IMediaRenderer.CurrentState Property " Url="html/333ed827-e140-7fbb-f5e1-3c38f41cbd53.htm" />
     <HelpKINode Title="MediaElementRenderer.CurrentState Property " Url="html/a31e1f4f-4576-921b-7cf1-5fa307f74934.htm" />
-    <HelpKINode Title="VeePlayRenderer.CurrentState Property " Url="html/d4801be4-d49e-2a56-ec07-33ccbc37fde3.htm" />
+    <HelpKINode Title="VeeplayRenderer.CurrentState Property " Url="html/e57424f6-8ae5-c997-df4d-5d16e5240ac8.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.CurrentState Property " Url="html/49e6760a-b979-4a3e-eda1-ee03bd409f84.htm" />
   </HelpKINode>
   <HelpKINode Title="CurrentTimeControl field" Url="html/aed973d8-7531-877e-a0a8-ad2d8a755e79.htm" />
@@ -244,7 +244,7 @@
   <HelpKINode Title="displayFirstFrame property">
     <HelpKINode Title="IMediaRenderer.displayFirstFrame Property " Url="html/e07727f6-69f9-d642-e863-ae693dd6cdd7.htm" />
     <HelpKINode Title="MediaElementRenderer.displayFirstFrame Property " Url="html/435808d9-5eaa-d8b0-da08-79450af90e05.htm" />
-    <HelpKINode Title="VeePlayRenderer.displayFirstFrame Property " Url="html/73c51bb8-70ef-df84-2ae9-c32c216499f6.htm" />
+    <HelpKINode Title="VeeplayRenderer.displayFirstFrame Property " Url="html/9220d411-30b1-b411-aadf-03a1ecb788b2.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.displayFirstFrame Property " Url="html/1a602338-b1af-b55a-8925-78e8577906fa.htm" />
   </HelpKINode>
   <HelpKINode Title="DoNothingOnWebviewDismiss enumeration member" Url="html/2b5f39d0-6132-ca27-1ce9-4017e9f0f0d7.htm" />
@@ -255,7 +255,7 @@
   <HelpKINode Title="Duration property">
     <HelpKINode Title="IMediaRenderer.Duration Property " Url="html/785ca946-9faa-2fcc-32d5-46ae7778bdf6.htm" />
     <HelpKINode Title="MediaElementRenderer.Duration Property " Url="html/4f3b750f-0ea7-f2d7-cf6c-4765ee015d29.htm" />
-    <HelpKINode Title="VeePlayRenderer.Duration Property " Url="html/2da51576-f3d9-52c0-4cfc-d371cdb9ee96.htm" />
+    <HelpKINode Title="VeeplayRenderer.Duration Property " Url="html/c627fcf7-6adb-9993-5e5f-3489cf3182f1.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.Duration Property " Url="html/af1eef17-a463-38ac-a3ef-487b6ba7ed60.htm" />
   </HelpKINode>
   <HelpKINode Title="durationAvailable method" Url="html/9706da5c-baaa-25c2-90d1-dd91eace1788.htm" />
@@ -344,7 +344,7 @@
   <HelpKINode Title="getPlayer method">
     <HelpKINode Title="IMediaRenderer.getPlayer Method " Url="html/733ceda2-42ad-e840-a806-2a0fbd1dba1c.htm" />
     <HelpKINode Title="MediaElementRenderer.getPlayer Method " Url="html/7da661bd-ddfe-0851-6910-f687ad5817ce.htm" />
-    <HelpKINode Title="VeePlayRenderer.getPlayer Method " Url="html/43f6ac6a-a7ee-fc7a-7e63-5934b2e1c061.htm" />
+    <HelpKINode Title="VeeplayRenderer.getPlayer Method " Url="html/69720e6b-a490-75b8-7199-10c652801f86.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.getPlayer Method " Url="html/b91f4d2b-57c7-0b39-4132-ea118af707d5.htm" />
   </HelpKINode>
   <HelpKINode Title="getPlaylist method" Url="html/c27c29d4-ed3c-5136-2a90-a8e304cbc6d9.htm" />
@@ -487,7 +487,7 @@
     <HelpKINode Title="IMediaRenderer.isPlaying Method " Url="html/a3bdbaad-c887-f0d2-a1b1-8c5445cc8b84.htm" />
     <HelpKINode Title="MediaElementRenderer.isPlaying Method " Url="html/e6a25afb-da16-37f6-45a8-1c08a1ade48f.htm" />
     <HelpKINode Title="MediaPlayer.isPlaying Method " Url="html/21b13d62-2616-13f2-1529-8d5ba651ddd6.htm" />
-    <HelpKINode Title="VeePlayRenderer.isPlaying Method " Url="html/8f311a7e-ce09-01d7-51b2-9cb19e8e9c50.htm" />
+    <HelpKINode Title="VeeplayRenderer.isPlaying Method " Url="html/c96a22ed-9e56-ae30-0bec-2fc6cd74b5df.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.isPlaying Method " Url="html/1b0fde2f-5fe5-8e6f-d92c-1d5af07423eb.htm" />
   </HelpKINode>
   <HelpKINode Title="isProcessing method" Url="html/88184b92-ef01-9f82-1745-4e73a972a650.htm" />
@@ -496,7 +496,7 @@
   <HelpKINode Title="isTogglingFullscreen method">
     <HelpKINode Title="IMediaRenderer.isTogglingFullscreen Method " Url="html/cb403d62-6f73-2b7e-3a84-e07c808e61e3.htm" />
     <HelpKINode Title="MediaElementRenderer.isTogglingFullscreen Method " Url="html/d2d466c0-c99b-6363-e253-2dc1754b506f.htm" />
-    <HelpKINode Title="VeePlayRenderer.isTogglingFullscreen Method " Url="html/3f2dab00-b1f1-d186-456f-23722350000a.htm" />
+    <HelpKINode Title="VeeplayRenderer.isTogglingFullscreen Method " Url="html/cc788fe9-2fce-6595-71bb-2dc7fbac58ea.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.isTogglingFullscreen Method " Url="html/96521726-ef6c-bb5f-3f5f-d930e4b591df.htm" />
   </HelpKINode>
   <HelpKINode Title="kKRDefaultAdapterGroup field" Url="html/0a076020-466b-4fa6-8289-8a827ee9daea.htm" />
@@ -653,7 +653,7 @@
   <HelpKINode Title="MediaEndedEvent event">
     <HelpKINode Title="IMediaRenderer.MediaEndedEvent Event" Url="html/33a63f6d-b588-1981-f945-4a2338265028.htm" />
     <HelpKINode Title="MediaElementRenderer.MediaEndedEvent Event" Url="html/4142dd27-93be-ef96-76e2-a8d358778b99.htm" />
-    <HelpKINode Title="VeePlayRenderer.MediaEndedEvent Event" Url="html/90432e3d-6f50-ba71-1f3b-768d8bea009f.htm" />
+    <HelpKINode Title="VeeplayRenderer.MediaEndedEvent Event" Url="html/36265016-0a6d-cda6-d9a5-ba9ee1a0d0c3.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.MediaEndedEvent Event" Url="html/69c16388-8347-af28-5fe6-e06f414b6aa8.htm" />
   </HelpKINode>
   <HelpKINode Title="MediaEvent class">
@@ -721,14 +721,14 @@
   <HelpKINode Title="MediaFailedEvent event">
     <HelpKINode Title="IMediaRenderer.MediaFailedEvent Event" Url="html/8fe33371-83cd-3ebe-d66f-622b56bf37cd.htm" />
     <HelpKINode Title="MediaElementRenderer.MediaFailedEvent Event" Url="html/90fb42cb-b85f-e6c1-daa9-3aa8bd225706.htm" />
-    <HelpKINode Title="VeePlayRenderer.MediaFailedEvent Event" Url="html/995e1613-d3c4-da14-91bb-507e44098886.htm" />
+    <HelpKINode Title="VeeplayRenderer.MediaFailedEvent Event" Url="html/edc27c7c-c487-20df-da3d-0b9ce293ca51.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.MediaFailedEvent Event" Url="html/daccd365-a9a7-62f2-0d60-5832179cff5c.htm" />
   </HelpKINode>
   <HelpKINode Title="mediaFiles method" Url="html/ffe20031-9ad1-b807-d58d-23fcc83e2cb2.htm" />
   <HelpKINode Title="MediaOpenedEvent event">
     <HelpKINode Title="IMediaRenderer.MediaOpenedEvent Event" Url="html/c0548703-ba56-6f8a-ec8d-e2c63d42fe5f.htm" />
     <HelpKINode Title="MediaElementRenderer.MediaOpenedEvent Event" Url="html/11867e2d-691d-56d1-3811-ade0194b379c.htm" />
-    <HelpKINode Title="VeePlayRenderer.MediaOpenedEvent Event" Url="html/61f053a7-ac25-e7a3-e7db-5f4d72697cb8.htm" />
+    <HelpKINode Title="VeeplayRenderer.MediaOpenedEvent Event" Url="html/da311222-3da5-4a63-2de3-a8467efdd35e.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.MediaOpenedEvent Event" Url="html/57e86978-2e23-541b-7904-f901926793a5.htm" />
   </HelpKINode>
   <HelpKINode Title="MediaOverlay class">
@@ -1273,8 +1273,8 @@
   <HelpKINode Title="Pause method">
     <HelpKINode Title="IMediaRenderer.Pause Method " Url="html/89960bf5-92b4-1ae0-de65-d02d603ebbe0.htm" />
     <HelpKINode Title="MediaElementRenderer.Pause Method " Url="html/0a369aa4-b5e6-a26e-5332-d0325b8c63f7.htm" />
-    <HelpKINode Title="VeePlayRenderer.Pause Method " Url="html/3691168d-0972-e5f4-58bb-c22681950e26.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.Pause Method " Url="html/05e08857-c6f3-ca1a-570c-0b6899c069ac.htm" />
+    <HelpKINode Title="VeeplayRenderer.Pause Method " Url="html/92fa2a83-6760-cf88-e9a3-575b20610247.htm" />
   </HelpKINode>
   <HelpKINode Title="pause method">
     <HelpKINode Title="MediaPlayer.pause Method " Url="html/2b45f12e-c3a2-0353-0a3f-1a7748f2fea5.htm" />
@@ -1283,20 +1283,20 @@
   <HelpKINode Title="performPostTapAction method" Url="html/13ed3501-fb77-8ba8-1b16-4a2e78499105.htm" />
   <HelpKINode Title="pinchToFullscreen field" Url="html/8cf2e862-ccd6-ed29-1e70-b69be76389ae.htm" />
   <HelpKINode Title="Play method">
-    <HelpKINode Title="MediaElementRenderer.Play Method " Url="html/cf355054-0f39-2834-f83b-987187c8d174.htm" />
-    <HelpKINode Title="VeePlayRenderer.Play Method " Url="html/61310714-c192-1f07-6eb1-a1c8f9fdd09e.htm" />
     <HelpKINode Title="IMediaRenderer.Play Method " Url="html/efd1b89f-1a19-48d3-6891-65f2cc9b0b9f.htm" />
+    <HelpKINode Title="MediaElementRenderer.Play Method " Url="html/cf355054-0f39-2834-f83b-987187c8d174.htm" />
+    <HelpKINode Title="VeeplayRenderer.Play Method " Url="html/78c2150c-838f-bc26-0212-d04c7112ee8b.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.Play Method " Url="html/6c00ea3e-ac93-33e3-f5fd-eaefe62f5140.htm" />
   </HelpKINode>
   <HelpKINode Title="play method">
-    <HelpKINode Title="MediaPlayer.play Method " Url="html/9263175a-0f97-b468-02ff-f5b07fb49515.htm" />
     <HelpKINode Title="MediaPlayerSkipOverlayController.play Method " Url="html/aa092652-c1db-d29c-23f2-f2e27fd05da0.htm" />
+    <HelpKINode Title="MediaPlayer.play Method " Url="html/9263175a-0f97-b468-02ff-f5b07fb49515.htm" />
   </HelpKINode>
   <HelpKINode Title="PlaybackControl field" Url="html/d479b98b-7a42-5bd5-cf9e-c0237c82e329.htm" />
   <HelpKINode Title="PlaybackRate property">
     <HelpKINode Title="IMediaRenderer.PlaybackRate Property " Url="html/ed2c869e-980b-835a-4cd1-fc4172f9c40c.htm" />
     <HelpKINode Title="MediaElementRenderer.PlaybackRate Property " Url="html/6a09c4a3-d4b2-2d33-b5e4-6dfa0ed7750c.htm" />
-    <HelpKINode Title="VeePlayRenderer.PlaybackRate Property " Url="html/6935aa19-25ed-ac93-b7e9-61d367b6fc4a.htm" />
+    <HelpKINode Title="VeeplayRenderer.PlaybackRate Property " Url="html/4e4b96c8-adbb-39a1-2982-7050189470ba.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.PlaybackRate Property " Url="html/25cd05fb-45f0-7680-6a3e-ac4206fb2bae.htm" />
   </HelpKINode>
   <HelpKINode Title="playbackState method" Url="html/5b5886ad-140e-ae1b-0b95-b13e7db7f51d.htm" />
@@ -1315,7 +1315,7 @@
   <HelpKINode Title="Position property">
     <HelpKINode Title="IMediaRenderer.Position Property " Url="html/033dceec-bc7f-941a-06a4-6f440731ee77.htm" />
     <HelpKINode Title="MediaElementRenderer.Position Property " Url="html/e3c435fb-8b04-7408-786e-f43163acd86d.htm" />
-    <HelpKINode Title="VeePlayRenderer.Position Property " Url="html/5223e5c0-4032-7fe3-da85-540e7b82c05e.htm" />
+    <HelpKINode Title="VeeplayRenderer.Position Property " Url="html/5397eda6-4e37-a833-03c0-8c47b37e9d55.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.Position Property " Url="html/c597009d-281a-88cd-a142-587f45396846.htm" />
   </HelpKINode>
   <HelpKINode Title="positionFromString method" Url="html/dc4cc238-3d93-5877-175a-555d3df9cf46.htm" />
@@ -1373,7 +1373,7 @@
   <HelpKINode Title="renderer field" Url="html/b4abf651-eda8-2cd3-a1e9-8b5d77033362.htm" />
   <HelpKINode Title="rendererIdentifier field">
     <HelpKINode Title="MediaElementRenderer.rendererIdentifier Field" Url="html/bb16980e-90f4-453f-d1af-dd3c9c9f53b5.htm" />
-    <HelpKINode Title="VeePlayRenderer.rendererIdentifier Field" Url="html/66970b38-908b-c3b0-d9c9-624b7226c2ad.htm" />
+    <HelpKINode Title="VeeplayRenderer.rendererIdentifier Field" Url="html/50a2b78a-849c-45e2-ce4a-a8faef2562c8.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.rendererIdentifier Field" Url="html/52ef3e30-3700-a22d-8139-51147f8d3300.htm" />
   </HelpKINode>
   <HelpKINode Title="repeatAfter field">
@@ -1383,7 +1383,7 @@
   <HelpKINode Title="Reset method">
     <HelpKINode Title="IMediaRenderer.Reset Method " Url="html/4c852e4a-2afa-7de7-7cb2-15f6ce075ee0.htm" />
     <HelpKINode Title="MediaElementRenderer.Reset Method " Url="html/348ff1fb-96e1-7684-b181-e64372c2b336.htm" />
-    <HelpKINode Title="VeePlayRenderer.Reset Method " Url="html/9afbf83b-93cf-2d03-8a92-21cd1639887b.htm" />
+    <HelpKINode Title="VeeplayRenderer.Reset Method " Url="html/fa6e0c51-d8dd-848c-c4cf-6cd5ef709b0d.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.Reset Method " Url="html/c9100006-f4fa-fd77-fd02-765529727d02.htm" />
   </HelpKINode>
   <HelpKINode Title="reset method" Url="html/6a86ff34-2961-7c6a-b769-7c718355d7ff.htm" />
@@ -1457,7 +1457,7 @@
   <HelpKINode Title="SetSource method">
     <HelpKINode Title="IMediaRenderer.SetSource Method " Url="html/2f7672b0-b72c-aaae-f9e0-ed3ce1a0c0b1.htm" />
     <HelpKINode Title="MediaElementRenderer.SetSource Method " Url="html/2cb63a6d-fafd-beda-2e38-001f234d4145.htm" />
-    <HelpKINode Title="VeePlayRenderer.SetSource Method " Url="html/58b51614-3c3b-9bc5-9eef-71236a4e50cb.htm" />
+    <HelpKINode Title="VeeplayRenderer.SetSource Method " Url="html/0117aafb-7428-9a0d-c0a7-eef987411bdf.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.SetSource Method " Url="html/f56eebfe-f8be-84f1-8052-a726143e4bf7.htm" />
   </HelpKINode>
   <HelpKINode Title="setStartPoint method" Url="html/98e2b501-227e-45f0-7b2f-8c5fd0cdd465.htm" />
@@ -1472,7 +1472,7 @@
   <HelpKINode Title="shouldAutoplay property">
     <HelpKINode Title="IMediaRenderer.shouldAutoplay Property " Url="html/b43df2de-6f19-c4ce-3182-035638b2734b.htm" />
     <HelpKINode Title="MediaElementRenderer.shouldAutoplay Property " Url="html/24621cd9-7562-ae2a-0703-2c281d59576f.htm" />
-    <HelpKINode Title="VeePlayRenderer.shouldAutoplay Property " Url="html/719cd09a-d396-6e0c-02bb-f002a8efb23a.htm" />
+    <HelpKINode Title="VeeplayRenderer.shouldAutoplay Property " Url="html/7734140a-a53c-6cf8-ed9f-79ed5710de67.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.shouldAutoplay Property " Url="html/47307c32-9f1d-ea3b-1687-4cea813785f6.htm" />
   </HelpKINode>
   <HelpKINode Title="shouldBeRemoved field" Url="html/b9dc6dac-48db-aa4d-ca44-7cd4c542b163.htm" />
@@ -1484,7 +1484,7 @@
   <HelpKINode Title="SizeChangedEvent event">
     <HelpKINode Title="IMediaRenderer.SizeChangedEvent Event" Url="html/30afe9bc-ef8f-9d9d-376a-59815103ddb5.htm" />
     <HelpKINode Title="MediaElementRenderer.SizeChangedEvent Event" Url="html/7d5119df-b248-8131-4548-bba3e61a211c.htm" />
-    <HelpKINode Title="VeePlayRenderer.SizeChangedEvent Event" Url="html/d77819c9-950f-f46a-07a1-27a0bba63429.htm" />
+    <HelpKINode Title="VeeplayRenderer.SizeChangedEvent Event" Url="html/51116414-eea1-4164-7fc8-108f9625f364.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.SizeChangedEvent Event" Url="html/a257a5cf-3ee1-caa1-2e22-94a0892ff81d.htm" />
   </HelpKINode>
   <HelpKINode Title="SKIP enumeration member" Url="html/98546368-5f20-726f-56da-e986863b857b.htm" />
@@ -1521,7 +1521,7 @@
   <HelpKINode Title="Source property">
     <HelpKINode Title="IMediaRenderer.Source Property " Url="html/3c1cf15a-44df-4c4f-e328-6fddb09bc8ec.htm" />
     <HelpKINode Title="MediaElementRenderer.Source Property " Url="html/7bdc489d-d95b-5beb-8152-aeef1b06cc9f.htm" />
-    <HelpKINode Title="VeePlayRenderer.Source Property " Url="html/e7937d48-2782-c941-3591-35b13bb97c93.htm" />
+    <HelpKINode Title="VeeplayRenderer.Source Property " Url="html/7046e7bf-61a1-5064-c7b9-29e2f9eaa420.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.Source Property " Url="html/09ed6ad0-759d-6272-4599-412d049848c5.htm" />
   </HelpKINode>
   <HelpKINode Title="sourceAdBreak field" Url="html/64b2911f-641f-7af7-93f2-961e258ca59e.htm" />
@@ -1538,21 +1538,21 @@
     <HelpKINode Title="IMediaRenderer.StateChanged Event" Url="html/4ad54e03-ee42-274b-5d82-f071e9d6ebff.htm" />
     <HelpKINode Title="MediaElementRenderer.StateChanged Event" Url="html/14c22fb4-63ff-b022-e833-628b6da2be52.htm" />
     <HelpKINode Title="MediaEvent.StateChanged Event" Url="html/9455753d-8c8c-15f8-0f72-3a03bbec96e9.htm" />
-    <HelpKINode Title="VeePlayRenderer.StateChanged Event" Url="html/a9a75c12-f8b5-116f-8ae2-ff94d0f8dac7.htm" />
+    <HelpKINode Title="VeeplayRenderer.StateChanged Event" Url="html/f76263f9-1f62-95bd-edeb-8b33cfc9e398.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.StateChanged Event" Url="html/62b2f9d0-c47e-3893-8bcb-51a106371d72.htm" />
   </HelpKINode>
   <HelpKINode Title="staticResource method" Url="html/923ae809-b559-0c13-5d27-2f5aaf43be5c.htm" />
   <HelpKINode Title="statusBarDefaultState field" Url="html/e8de14ac-1cca-1d8b-2fb9-f2f27cd0258c.htm" />
   <HelpKINode Title="step method" Url="html/bb2064fa-ec5c-0270-4d97-6e9d5ac5e5d8.htm" />
-  <HelpKINode Title="Stop method">
-    <HelpKINode Title="IMediaRenderer.Stop Method " Url="html/a2c9baa8-7648-4cec-a96b-94a259734896.htm" />
-    <HelpKINode Title="VeePlayRenderer.Stop Method " Url="html/06fd3f73-cdc3-f317-5fbf-72428ffe8b67.htm" />
-    <HelpKINode Title="MediaElementRenderer.Stop Method " Url="html/f2376373-a572-399c-d6ac-f075c9ada486.htm" />
-    <HelpKINode Title="YoutubePlayerRenderer.Stop Method " Url="html/4590611f-9785-d439-633e-c05543b101d2.htm" />
-  </HelpKINode>
   <HelpKINode Title="stop method">
     <HelpKINode Title="LivestreamInternalTimer.stop Method " Url="html/162c78ae-fd37-f6ef-b312-0c04f37ed8d6.htm" />
     <HelpKINode Title="MediaPlayer.stop Method " Url="html/280b7c24-3ad4-e90b-e02d-4a7e46592a60.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Stop method">
+    <HelpKINode Title="IMediaRenderer.Stop Method " Url="html/a2c9baa8-7648-4cec-a96b-94a259734896.htm" />
+    <HelpKINode Title="MediaElementRenderer.Stop Method " Url="html/f2376373-a572-399c-d6ac-f075c9ada486.htm" />
+    <HelpKINode Title="VeeplayRenderer.Stop Method " Url="html/d8522a46-4622-acd9-3b28-6a22b06f0b7d.htm" />
+    <HelpKINode Title="YoutubePlayerRenderer.Stop Method " Url="html/4590611f-9785-d439-633e-c05543b101d2.htm" />
   </HelpKINode>
   <HelpKINode Title="StopShareRequest method" Url="html/b1d08d22-d09d-ebd9-15c8-d4cf5ad55c16.htm" />
   <HelpKINode Title="StreamUriWinRTResolver class">
@@ -1598,7 +1598,7 @@
     <HelpKINode Title="MediaPlayerSkipOverlayController.type Method " Url="html/1bdcda90-e61f-731d-9872-0bae5b43aff3.htm" />
     <HelpKINode Title="MediaPlayerTextOverlayController.type Method " Url="html/39d9d668-202f-6fcd-c97c-8102ccf906fd.htm" />
     <HelpKINode Title="VASTMediaFileNode.type Method " Url="html/88615135-e14b-645d-2647-aa740181cf3b.htm" />
-    <HelpKINode Title="VeePlayRenderer.type Method " Url="html/7ac4655a-b655-1b2b-76a1-07eeafc86f38.htm" />
+    <HelpKINode Title="VeeplayRenderer.type Method " Url="html/5dd2ed02-490f-1180-b0d2-0bfd82ab4662.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.type Method " Url="html/8f859ce7-9c4e-239f-a86a-038c9dd23b34.htm" />
   </HelpKINode>
   <HelpKINode Title="Type property" Url="html/8aceff67-0a33-e78f-9d90-4928acef8ac0.htm" />
@@ -1956,7 +1956,7 @@
   <HelpKINode Title="Veeplay.media.renderers.IMediaRenderer interface" Url="html/330ea095-e3c4-9810-d1bb-cfc9c239213c.htm" />
   <HelpKINode Title="Veeplay.media.renderers.MediaElementRenderer class" Url="html/8b81d6d6-3365-c0df-04ee-238d8eee278e.htm" />
   <HelpKINode Title="Veeplay.media.renderers.StreamUriWinRTResolver class" Url="html/c727a681-78d3-286d-8198-ac6d08d9078c.htm" />
-  <HelpKINode Title="Veeplay.media.renderers.VeePlayRenderer class" Url="html/dcfea3b4-cc32-91b3-9698-55f773772e72.htm" />
+  <HelpKINode Title="Veeplay.media.renderers.VeeplayRenderer class" Url="html/458c3ec6-d23b-2c9b-474c-4d5519d44ece.htm" />
   <HelpKINode Title="Veeplay.media.renderers.YoutubePlayerRenderer class" Url="html/90d840a3-a4ab-77ea-e4bf-eeda942dd3c8.htm" />
   <HelpKINode Title="Veeplay.overlaycontrollers namespace" Url="html/52826711-59d2-5c73-4d5c-681bd9e70477.htm" />
   <HelpKINode Title="Veeplay.overlaycontrollers.DismissActionContainer class" Url="html/7d9c8649-f39f-c242-318f-f3c16926947d.htm" />
@@ -2005,42 +2005,42 @@
   <HelpKINode Title="Veeplay.vast.VASTRootNode.AdPodFallback enumeration" Url="html/0550784f-0458-1281-9427-25f939c97edd.htm" />
   <HelpKINode Title="Veeplay.vast.VASTWrapperNode class" Url="html/58ec1fab-331f-f90b-49ac-665e8fbe6c3a.htm" />
   <HelpKINode Title="Veeplay.vast.VASTXMLNode class" Url="html/f0bb0e6b-c60e-44a9-80b2-4d7592d1d078.htm" />
-  <HelpKINode Title="VeePlayRenderer class">
-    <HelpKINode Title="VeePlayRenderer Class" Url="html/dcfea3b4-cc32-91b3-9698-55f773772e72.htm" />
-    <HelpKINode Title="about VeePlayRenderer class" Url="html/dcfea3b4-cc32-91b3-9698-55f773772e72.htm" />
-    <HelpKINode Title="constructor" Url="html/d8adb45e-d769-a816-f0fd-86d7860babef.htm" />
-    <HelpKINode Title="events" Url="html/fa93239d-d652-691a-80e7-50bfb4359ff4.htm" />
-    <HelpKINode Title="fields" Url="html/6c18bbad-b337-24f9-b17e-b84906a6b403.htm" />
-    <HelpKINode Title="methods" Url="html/a11235a4-a323-5bab-43e0-68fc98bb0436.htm" />
-    <HelpKINode Title="properties" Url="html/b082a271-0f5a-1d5b-bdf5-9f48bfb11412.htm" />
+  <HelpKINode Title="VeeplayRenderer class">
+    <HelpKINode Title="VeeplayRenderer Class" Url="html/458c3ec6-d23b-2c9b-474c-4d5519d44ece.htm" />
+    <HelpKINode Title="about VeeplayRenderer class" Url="html/458c3ec6-d23b-2c9b-474c-4d5519d44ece.htm" />
+    <HelpKINode Title="constructor" Url="html/7e021a5c-67e2-3dfa-7c85-aae058eb3b41.htm" />
+    <HelpKINode Title="events" Url="html/fdd9562e-7c34-80b2-993f-70be21b5a79d.htm" />
+    <HelpKINode Title="fields" Url="html/85ba42b7-2890-36f0-1ccb-69184cc2b3e3.htm" />
+    <HelpKINode Title="methods" Url="html/4b42eba6-a38b-a92d-25ec-caed63dec163.htm" />
+    <HelpKINode Title="properties" Url="html/2d588ccf-1391-3197-92e8-c995dd1c60e6.htm" />
   </HelpKINode>
-  <HelpKINode Title="VeePlayRenderer.BufferingProgress property" Url="html/ad3c7e87-2df1-fd45-3e84-2905ce2b9cfa.htm" />
-  <HelpKINode Title="VeePlayRenderer.BufferingUpdateEvent event" Url="html/49730689-f876-2108-57d8-cfec0192a2ef.htm" />
-  <HelpKINode Title="VeePlayRenderer.CurrentState property" Url="html/d4801be4-d49e-2a56-ec07-33ccbc37fde3.htm" />
-  <HelpKINode Title="VeePlayRenderer.displayFirstFrame property" Url="html/73c51bb8-70ef-df84-2ae9-c32c216499f6.htm" />
-  <HelpKINode Title="VeePlayRenderer.Duration property" Url="html/2da51576-f3d9-52c0-4cfc-d371cdb9ee96.htm" />
-  <HelpKINode Title="VeePlayRenderer.getPlayer method" Url="html/43f6ac6a-a7ee-fc7a-7e63-5934b2e1c061.htm" />
-  <HelpKINode Title="VeePlayRenderer.isPlaying method" Url="html/8f311a7e-ce09-01d7-51b2-9cb19e8e9c50.htm" />
-  <HelpKINode Title="VeePlayRenderer.isTogglingFullscreen method" Url="html/3f2dab00-b1f1-d186-456f-23722350000a.htm" />
-  <HelpKINode Title="VeePlayRenderer.MediaEndedEvent event" Url="html/90432e3d-6f50-ba71-1f3b-768d8bea009f.htm" />
-  <HelpKINode Title="VeePlayRenderer.MediaFailedEvent event" Url="html/995e1613-d3c4-da14-91bb-507e44098886.htm" />
-  <HelpKINode Title="VeePlayRenderer.MediaOpenedEvent event" Url="html/61f053a7-ac25-e7a3-e7db-5f4d72697cb8.htm" />
-  <HelpKINode Title="VeePlayRenderer.Pause method" Url="html/3691168d-0972-e5f4-58bb-c22681950e26.htm" />
-  <HelpKINode Title="VeePlayRenderer.Play method" Url="html/61310714-c192-1f07-6eb1-a1c8f9fdd09e.htm" />
-  <HelpKINode Title="VeePlayRenderer.PlaybackRate property" Url="html/6935aa19-25ed-ac93-b7e9-61d367b6fc4a.htm" />
-  <HelpKINode Title="VeePlayRenderer.Position property" Url="html/5223e5c0-4032-7fe3-da85-540e7b82c05e.htm" />
-  <HelpKINode Title="VeePlayRenderer.rendererIdentifier field" Url="html/66970b38-908b-c3b0-d9c9-624b7226c2ad.htm" />
-  <HelpKINode Title="VeePlayRenderer.Reset method" Url="html/9afbf83b-93cf-2d03-8a92-21cd1639887b.htm" />
-  <HelpKINode Title="VeePlayRenderer.SetSource method" Url="html/58b51614-3c3b-9bc5-9eef-71236a4e50cb.htm" />
-  <HelpKINode Title="VeePlayRenderer.shouldAutoplay property" Url="html/719cd09a-d396-6e0c-02bb-f002a8efb23a.htm" />
-  <HelpKINode Title="VeePlayRenderer.SizeChangedEvent event" Url="html/d77819c9-950f-f46a-07a1-27a0bba63429.htm" />
-  <HelpKINode Title="VeePlayRenderer.Source property" Url="html/e7937d48-2782-c941-3591-35b13bb97c93.htm" />
-  <HelpKINode Title="VeePlayRenderer.StateChanged event" Url="html/a9a75c12-f8b5-116f-8ae2-ff94d0f8dac7.htm" />
-  <HelpKINode Title="VeePlayRenderer.Stop method" Url="html/06fd3f73-cdc3-f317-5fbf-72428ffe8b67.htm" />
-  <HelpKINode Title="VeePlayRenderer.type method" Url="html/7ac4655a-b655-1b2b-76a1-07eeafc86f38.htm" />
-  <HelpKINode Title="VeePlayRenderer.VeePlayRenderer constructor" Url="html/d8adb45e-d769-a816-f0fd-86d7860babef.htm" />
-  <HelpKINode Title="VeePlayRenderer.Volume property" Url="html/57cdef22-67f5-ce8b-c9c2-b22ef2381513.htm" />
-  <HelpKINode Title="VeePlayRenderer.waitForSeek property" Url="html/1001ae8e-f287-7cde-d77e-7978ad8944bf.htm" />
+  <HelpKINode Title="VeeplayRenderer.BufferingProgress property" Url="html/6402534f-d3d7-502c-2472-420050fb2d76.htm" />
+  <HelpKINode Title="VeeplayRenderer.BufferingUpdateEvent event" Url="html/87774c14-0354-75d1-718d-247a475065ba.htm" />
+  <HelpKINode Title="VeeplayRenderer.CurrentState property" Url="html/e57424f6-8ae5-c997-df4d-5d16e5240ac8.htm" />
+  <HelpKINode Title="VeeplayRenderer.displayFirstFrame property" Url="html/9220d411-30b1-b411-aadf-03a1ecb788b2.htm" />
+  <HelpKINode Title="VeeplayRenderer.Duration property" Url="html/c627fcf7-6adb-9993-5e5f-3489cf3182f1.htm" />
+  <HelpKINode Title="VeeplayRenderer.getPlayer method" Url="html/69720e6b-a490-75b8-7199-10c652801f86.htm" />
+  <HelpKINode Title="VeeplayRenderer.isPlaying method" Url="html/c96a22ed-9e56-ae30-0bec-2fc6cd74b5df.htm" />
+  <HelpKINode Title="VeeplayRenderer.isTogglingFullscreen method" Url="html/cc788fe9-2fce-6595-71bb-2dc7fbac58ea.htm" />
+  <HelpKINode Title="VeeplayRenderer.MediaEndedEvent event" Url="html/36265016-0a6d-cda6-d9a5-ba9ee1a0d0c3.htm" />
+  <HelpKINode Title="VeeplayRenderer.MediaFailedEvent event" Url="html/edc27c7c-c487-20df-da3d-0b9ce293ca51.htm" />
+  <HelpKINode Title="VeeplayRenderer.MediaOpenedEvent event" Url="html/da311222-3da5-4a63-2de3-a8467efdd35e.htm" />
+  <HelpKINode Title="VeeplayRenderer.Pause method" Url="html/92fa2a83-6760-cf88-e9a3-575b20610247.htm" />
+  <HelpKINode Title="VeeplayRenderer.Play method" Url="html/78c2150c-838f-bc26-0212-d04c7112ee8b.htm" />
+  <HelpKINode Title="VeeplayRenderer.PlaybackRate property" Url="html/4e4b96c8-adbb-39a1-2982-7050189470ba.htm" />
+  <HelpKINode Title="VeeplayRenderer.Position property" Url="html/5397eda6-4e37-a833-03c0-8c47b37e9d55.htm" />
+  <HelpKINode Title="VeeplayRenderer.rendererIdentifier field" Url="html/50a2b78a-849c-45e2-ce4a-a8faef2562c8.htm" />
+  <HelpKINode Title="VeeplayRenderer.Reset method" Url="html/fa6e0c51-d8dd-848c-c4cf-6cd5ef709b0d.htm" />
+  <HelpKINode Title="VeeplayRenderer.SetSource method" Url="html/0117aafb-7428-9a0d-c0a7-eef987411bdf.htm" />
+  <HelpKINode Title="VeeplayRenderer.shouldAutoplay property" Url="html/7734140a-a53c-6cf8-ed9f-79ed5710de67.htm" />
+  <HelpKINode Title="VeeplayRenderer.SizeChangedEvent event" Url="html/51116414-eea1-4164-7fc8-108f9625f364.htm" />
+  <HelpKINode Title="VeeplayRenderer.Source property" Url="html/7046e7bf-61a1-5064-c7b9-29e2f9eaa420.htm" />
+  <HelpKINode Title="VeeplayRenderer.StateChanged event" Url="html/f76263f9-1f62-95bd-edeb-8b33cfc9e398.htm" />
+  <HelpKINode Title="VeeplayRenderer.Stop method" Url="html/d8522a46-4622-acd9-3b28-6a22b06f0b7d.htm" />
+  <HelpKINode Title="VeeplayRenderer.type method" Url="html/5dd2ed02-490f-1180-b0d2-0bfd82ab4662.htm" />
+  <HelpKINode Title="VeeplayRenderer.VeeplayRenderer constructor" Url="html/7e021a5c-67e2-3dfa-7c85-aae058eb3b41.htm" />
+  <HelpKINode Title="VeeplayRenderer.Volume property" Url="html/78e6b08c-a122-ff44-d03d-a4dac88bcc6d.htm" />
+  <HelpKINode Title="VeeplayRenderer.waitForSeek property" Url="html/b928b30e-44ba-b3a5-b496-a8eb0a1871c8.htm" />
   <HelpKINode Title="VideoThumbToolTipConverter class">
     <HelpKINode Title="VideoThumbToolTipConverter Class" Url="html/0f0efa0f-2337-d26e-4a54-853eaa240449.htm" />
     <HelpKINode Title="about VideoThumbToolTipConverter class" Url="html/0f0efa0f-2337-d26e-4a54-853eaa240449.htm" />
@@ -2076,7 +2076,7 @@
   <HelpKINode Title="Volume property">
     <HelpKINode Title="IMediaRenderer.Volume Property " Url="html/884be444-7ffe-15e6-bd1b-05235717eaa1.htm" />
     <HelpKINode Title="MediaElementRenderer.Volume Property " Url="html/b410a1a4-835e-c182-6767-17612b0c43a9.htm" />
-    <HelpKINode Title="VeePlayRenderer.Volume Property " Url="html/57cdef22-67f5-ce8b-c9c2-b22ef2381513.htm" />
+    <HelpKINode Title="VeeplayRenderer.Volume Property " Url="html/78e6b08c-a122-ff44-d03d-a4dac88bcc6d.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.Volume Property " Url="html/450cc751-2b15-eb73-04b7-2a5d31a7426d.htm" />
   </HelpKINode>
   <HelpKINode Title="VPUtilities class">
@@ -2104,7 +2104,7 @@
   <HelpKINode Title="waitForSeek property">
     <HelpKINode Title="IMediaRenderer.waitForSeek Property " Url="html/018d44d5-2d12-27d9-76cf-3968c8cc9bdf.htm" />
     <HelpKINode Title="MediaElementRenderer.waitForSeek Property " Url="html/ac5f49f2-cb5c-62f1-31a1-994b0992b38a.htm" />
-    <HelpKINode Title="VeePlayRenderer.waitForSeek Property " Url="html/1001ae8e-f287-7cde-d77e-7978ad8944bf.htm" />
+    <HelpKINode Title="VeeplayRenderer.waitForSeek Property " Url="html/b928b30e-44ba-b3a5-b496-a8eb0a1871c8.htm" />
     <HelpKINode Title="YoutubePlayerRenderer.waitForSeek Property " Url="html/83cb6355-174c-eb5c-50ba-cdc62b931ea1.htm" />
   </HelpKINode>
   <HelpKINode Title="WebViewControl class">
