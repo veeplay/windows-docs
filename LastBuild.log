@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder" version="2015.5.2.0" projectFile="C:\Users\Sergiu\Documents\windows-player-libraries\VeePlayDoc.shfbproj" started="03/07/2015 10:39:55">
+<shfbBuild product="Sandcastle Help File Builder" version="2015.5.2.0" projectFile="C:\Users\Sergiu\Documents\windows-player-libraries\VeePlayDoc.shfbproj" started="03/07/2015 15:52:26">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -12,9 +12,6 @@ Loading and initializing plug-ins...
 Lightweight Website Style Version 2015.5.2.0
 Copyright &#169; 2006-2015, Eric Woodruff, All Rights Reserved
 Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
-</buildStep>
-<buildStep step="ClearWorkFolder">
-Clearing working folder...
 </buildStep>
 <buildStep step="ValidatingDocumentationSources">
 Validating and copying documentation source information
@@ -39,16 +36,16 @@ Copying XML comments files
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, English (United States))...
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00.0150
+</plugIn>    Last step completed in 00:00:00.1380
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00.0170
+    Last step completed in 00:00:00.0140
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 [C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
-Build started 03/07/2015 10:39:56.
+Build started 03/07/2015 15:52:59.
 Project &quot;C:\Users\Sergiu\Documents\windows-player-libraries\Help\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
 PrepareForBuild:
   Creating directory &quot;obj\Debug\&quot;.
@@ -67,13 +64,13 @@ Done Building Project &quot;C:\Users\Sergiu\Documents\windows-player-libraries\H
 
 Build succeeded.
 
-Time Elapsed 00:00:00.86
-    Last step completed in 00:00:01.0873
+Time Elapsed 00:00:01.15
+    Last step completed in 00:00:02.4123
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 [C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
-Build started 03/07/2015 10:39:57.
+Build started 03/07/2015 15:53:00.
 Project &quot;C:\Users\Sergiu\Documents\windows-player-libraries\Help\Working\TransformManifest.proj&quot; on node 1 (default targets).
 TransformManifest:
   XslTransform (v2015.5.2.0)
@@ -98,26 +95,26 @@ Done Building Project &quot;C:\Users\Sergiu\Documents\windows-player-libraries\H
 
 Build succeeded.
 
-Time Elapsed 00:00:00.90
-    Last step completed in 00:00:01.1821
+Time Elapsed 00:00:04.74
+    Last step completed in 00:00:05.0090
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00.0580
+    Last step completed in 00:00:00.0610
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
 No additional content to copy
-    Last step completed in 00:00:00.0340
+    Last step completed in 00:00:00.0120
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
-    Last step completed in 00:00:00.0170
+    Last step completed in 00:00:00.0040
 </buildStep>
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
-Build started 03/07/2015 10:39:59.
+Build started 03/07/2015 15:53:05.
 Project &quot;C:\Users\Sergiu\Documents\windows-player-libraries\Help\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
 GenerateIntermediateTOC:
   XslTransform (v2015.5.2.0)
@@ -130,22 +127,22 @@ Build succeeded.
 
 Time Elapsed 00:00:00.23
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00.4030
+    Last step completed in 00:00:00.4150
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
-    Last step completed in 00:00:00.1360
+    Last step completed in 00:00:00.9385
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
 C:\Users\Sergiu\Documents\windows-player-libraries\Help\Working\sandcastle.config
-    Last step completed in 00:00:00.0590
+    Last step completed in 00:00:00.0647
 </buildStep>
 <buildStep step="BuildReferenceTopics">
 Building reference help topics...
 [C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
-Build started 03/07/2015 10:39:59.
+Build started 03/07/2015 15:53:07.
 Project &quot;C:\Users\Sergiu\Documents\windows-player-libraries\Help\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
 BuildReferenceTopics:
   BuildAssembler (v2015.5.2.0)
@@ -191,15 +188,15 @@ Done Building Project &quot;C:\Users\Sergiu\Documents\windows-player-libraries\H
 
 Build succeeded.
 
-Time Elapsed 00:00:20.17
-    Last step completed in 00:00:20.3683
+Time Elapsed 00:00:38.36
+    Last step completed in 00:00:38.6126
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
 
 Clearing any prior web/markdown output
     Did not delete folder &#39;C:\Users\Sergiu\Documents\windows-player-libraries\Help\.git&#39; as it contains read-only or hidden folders/files
-    Last step completed in 00:00:04.6393
+    Last step completed in 00:00:01.2256
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
@@ -221,7 +218,7 @@ Processed 994 HTML files
 Sorting keywords and generating See Also indices
 Saving website keyword index to C:\Users\Sergiu\Documents\windows-player-libraries\Help\Working\WebKI.xml
 Saving website table of contents to C:\Users\Sergiu\Documents\windows-player-libraries\Help\Working\WebTOC.xml
-    Last step completed in 00:00:06.8625
+    Last step completed in 00:00:06.7397
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -364,11 +361,11 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyle
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocOpen.gif -&gt; C:\Users\Sergiu\Documents\windows-player-libraries\Help\Working\Output\Website\icons\TocOpen.gif
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; C:\Users\Sergiu\Documents\windows-player-libraries\Help\Working\Output\Website\scripts\branding-Website.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; C:\Users\Sergiu\Documents\windows-player-libraries\Help\Working\Output\Website\scripts\jquery-1.11.0.min.js
-    Last step completed in 00:00:02.3396
+    Last step completed in 00:00:01.1939
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating HTML Help 1 table of contents file...
-    Last step completed in 00:00:00.0040
+    Last step completed in 00:00:00.0036
 </buildStep>
 <buildStep step="GenerateHelpFileIndex">
 Generating HTML Help 1 index file...
@@ -376,7 +373,7 @@ Generating HTML Help 1 index file...
 </buildStep>
 <buildStep step="GenerateHelpProject">
 Generating HTML Help 1 project file...
-    Last step completed in 00:00:00.0210
+    Last step completed in 00:00:00.0161
 </buildStep>
 <buildStep step="CompilingHelpFile">
 Compiling HTML Help 1 file...
@@ -391,7 +388,7 @@ Compiling HTML Help 1 file...
   
   
   
-  Compile time: 0 minutes, 9 seconds
+  Compile time: 0 minutes, 11 seconds
   
   996	Topics
   
@@ -405,11 +402,11 @@ Compiling HTML Help 1 file...
   
   
   
-  Created c:\Users\Sergiu\Documents\windows-player-libraries\Help\Working\Output\HtmlHelp1\Veeplay.chm, 1,292,819 bytes
+  Created c:\Users\Sergiu\Documents\windows-player-libraries\Help\Working\Output\HtmlHelp1\Veeplay.chm, 1,292,831 bytes
   
-  Compression decreased file by 7,954,831 bytes.
+  Compression decreased file by 7,954,819 bytes.
   
-    Last step completed in 00:00:11.6475
+    Last step completed in 00:00:13.1180
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
@@ -420,7 +417,7 @@ Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:07.6866
+</plugIn>    Last step completed in 00:00:06.3585
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
@@ -428,15 +425,15 @@ Copying website files to output folder...
 Copied 500 files
 Copied 1000 files
 Copied 1282 files for the website content
-    Last step completed in 00:00:08.2260
+    Last step completed in 00:00:13.6140
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:08.6510
+    Last step completed in 00:00:12.0613
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 03/07/2015 10:41:10.  Total time: 00:01:15.3965
+Build completed successfully at 03/07/2015 15:54:40.  Total time: 00:02:13.2251
 
 </buildStep>
 </shfbBuild>
