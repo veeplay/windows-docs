@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="ed861c1a-9341-4960-b2ea-eb256f4fa8e0" Title="Veeplay" Url="html/3a4eed8b-7445-ff1b-5f67-1d92ab966529.htm">
-    <HelpTOCNode Id="85aab30a-7dc5-4281-9ada-da0e03ca1799" Title="Veeplay.extensions" Url="html/df08ff94-b9f7-c7cc-84a1-c959a505a68b.htm">
-      <HelpTOCNode Id="0ac24324-3c27-48af-bab7-a11479ac5a93" Title="FrameworkExtension Class" Url="html/f8b87f46-96b1-ff78-3ca5-229c1d193d85.htm">
+  <HelpTOCNode Id="614d0504-c085-4282-a8cb-9ae800f66879" Title="Veeplay" Url="html/3a4eed8b-7445-ff1b-5f67-1d92ab966529.htm">
+    <HelpTOCNode Id="1c1ba147-e519-4a10-962f-f9d6c0ed6ed9" Title="Veeplay.extensions" Url="html/df08ff94-b9f7-c7cc-84a1-c959a505a68b.htm">
+      <HelpTOCNode Id="25fc8210-d8d2-42df-84c6-7b424dad056b" Title="FrameworkExtension Class" Url="html/f8b87f46-96b1-ff78-3ca5-229c1d193d85.htm">
         <HelpTOCNode Title="FrameworkExtension Constructor " Url="html/2b5d29ba-d896-6766-2c65-24eeb9b553d3.htm" />
-        <HelpTOCNode Id="51c1963b-1db0-4590-829d-434e2aeade94" Title="FrameworkExtension Fields" Url="html/bc12bbcc-b0bd-34a5-bb5c-5330ded02970.htm">
+        <HelpTOCNode Id="d713082f-c941-4174-888f-5d8855515866" Title="FrameworkExtension Fields" Url="html/bc12bbcc-b0bd-34a5-bb5c-5330ded02970.htm">
           <HelpTOCNode Title="ExtensionsTypeFormat Field" Url="html/e69aa763-926d-f106-2561-4837773116ce.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="345d667d-08e8-4018-9342-aa6b85f48266" Title="FrameworkExtension Methods" Url="html/1656aeb6-f84a-2a60-fd33-dc761240a8d5.htm">
+        <HelpTOCNode Id="d42f8d23-7104-4ff1-895c-0c40e0373a46" Title="FrameworkExtension Methods" Url="html/1656aeb6-f84a-2a60-fd33-dc761240a8d5.htm">
           <HelpTOCNode Title="configureOverlayfromNodeTypeErrorURLsAdParameters Method " Url="html/c8ef8f2e-2497-629a-47b1-fb6936564dea.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="7d21607f-489b-4689-88a1-4129c9e26b9b" Title="Veeplay.hub" Url="html/aa192cdd-0bd8-abb4-9428-7b34c131f6e9.htm">
-      <HelpTOCNode Id="08c57626-2850-49ca-9e4b-16ffb0f85783" Title="KRAdapter Interface" Url="html/8b15de10-d44f-1f4f-f122-2b058a4fdb99.htm">
-        <HelpTOCNode Id="52fe6da7-3904-42fb-9492-faffde47d65b" Title="KRAdapter Methods" Url="html/9aaf329a-4cd0-7566-5809-80002de56ba0.htm">
+    <HelpTOCNode Id="49c6d99b-6f7e-4a1f-b7f9-2239dd10326e" Title="Veeplay.hub" Url="html/aa192cdd-0bd8-abb4-9428-7b34c131f6e9.htm">
+      <HelpTOCNode Id="b278b56f-67d4-4d4e-a9b0-452016fe14c6" Title="KRAdapter Interface" Url="html/8b15de10-d44f-1f4f-f122-2b058a4fdb99.htm">
+        <HelpTOCNode Id="e771b4e7-728a-4990-b4f3-bae31fbbef33" Title="KRAdapter Methods" Url="html/9aaf329a-4cd0-7566-5809-80002de56ba0.htm">
           <HelpTOCNode Title="type Method " Url="html/ccfb8432-b7f1-2c73-5a5a-825d917b908c.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="10c0a55b-ecb6-4814-8ed6-3f1535feee43" Title="KRHub Class" Url="html/599f24ae-98ff-789c-f7dc-b139a2c7f993.htm">
+      <HelpTOCNode Id="e53cadc4-acb0-4856-a2b3-b235b1e042c7" Title="KRHub Class" Url="html/599f24ae-98ff-789c-f7dc-b139a2c7f993.htm">
         <HelpTOCNode Title="KRHub Constructor " Url="html/20016dfc-4ef6-4b36-7fe7-f69aaf403dc9.htm" />
-        <HelpTOCNode Id="2faedd47-079d-4c91-8e60-9b191785ff65" Title="KRHub Fields" Url="html/2c9f8d0c-d100-ef77-a0f0-9081fddd8523.htm">
+        <HelpTOCNode Id="b400e1f0-4d52-4876-871a-aad565dc2c2e" Title="KRHub Fields" Url="html/2c9f8d0c-d100-ef77-a0f0-9081fddd8523.htm">
           <HelpTOCNode Title="kKRDefaultAdapterGroup Field" Url="html/0a076020-466b-4fa6-8289-8a827ee9daea.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="fb0a5738-1e9d-402a-ade0-fdad2567d890" Title="KRHub Methods" Url="html/47b48756-580d-42f8-f413-05841a87ccf0.htm">
+        <HelpTOCNode Id="9dd22365-b463-4603-91cc-2bcdd5df7fb6" Title="KRHub Methods" Url="html/47b48756-580d-42f8-f413-05841a87ccf0.htm">
           <HelpTOCNode Title="adapterForType Method " Url="html/79705916-c830-19cf-112d-81f7123360cd.htm" />
           <HelpTOCNode Title="adapterForTypeInGroup Method " Url="html/0218a57a-7ce3-fb2e-bf97-1705d8cef75d.htm" />
           <HelpTOCNode Title="adaptersForGroup Method " Url="html/564d684a-9744-d28c-0f26-8402cfbf6382.htm" />
@@ -35,9 +35,9 @@
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="28642837-30e9-4980-b3eb-8136fe0f7fa0" Title="Veeplay.licensing" Url="html/5f313bdd-e588-95ef-415c-2a9ef5135484.htm">
-      <HelpTOCNode Id="20bf9d4c-8472-4297-9dcb-e0544c185eba" Title="LicenseInvalidException Class" Url="html/d41ca683-9bcc-7cd2-22c1-bc05711498ac.htm">
-        <HelpTOCNode Id="9f2c1c02-bec9-4953-a519-74a90e00bcb3" Title="LicenseInvalidException Constructor " Url="html/29689201-58c8-3c70-02f3-b1ec4b5d269d.htm">
+    <HelpTOCNode Id="8ba9324a-7713-408c-8c3a-39d289bc64e0" Title="Veeplay.licensing" Url="html/5f313bdd-e588-95ef-415c-2a9ef5135484.htm">
+      <HelpTOCNode Id="edb94785-bac0-4579-b3ae-43d3ee524a4b" Title="LicenseInvalidException Class" Url="html/d41ca683-9bcc-7cd2-22c1-bc05711498ac.htm">
+        <HelpTOCNode Id="7e9ed6e8-a703-4e77-88d5-9ab3b42fb075" Title="LicenseInvalidException Constructor " Url="html/29689201-58c8-3c70-02f3-b1ec4b5d269d.htm">
           <HelpTOCNode Title="LicenseInvalidException Constructor " Url="html/40e48a33-e26f-1b24-988e-48dbec7104be.htm" />
           <HelpTOCNode Title="LicenseInvalidException Constructor (String)" Url="html/8c8db7e7-9188-ef9f-859b-119015f05cec.htm" />
           <HelpTOCNode Title="LicenseInvalidException Constructor (String, Exception)" Url="html/c3d95bd0-968f-b319-ea1c-018c62535818.htm" />
@@ -46,11 +46,11 @@
         <HelpTOCNode Title="LicenseInvalidException Properties" Url="html/4ddb9ea6-a408-74d7-2a52-74d35e8b82ec.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="75c3eb81-8a14-4249-aafe-78d454df06f7" Title="Veeplay.media Namespaces" Url="html/2b2c8900-5ec0-f4d2-9498-7ad3fdcc4d63.htm">
-      <HelpTOCNode Id="7efc677a-a87b-40a6-8db5-074f0946ef7e" Title="Veeplay.media" Url="html/fb324285-6fec-e934-20ad-16e5a3c33b22.htm">
-        <HelpTOCNode Id="d8b82adf-eb02-4075-a508-75635b224723" Title="MediaBuilder Class" Url="html/6fabfe3d-a7cd-5b0f-87a7-8dd087306bfa.htm">
+    <HelpTOCNode Id="440d2791-246f-4c6f-ad73-c7fb950440f3" Title="Veeplay.media Namespaces" Url="html/2b2c8900-5ec0-f4d2-9498-7ad3fdcc4d63.htm">
+      <HelpTOCNode Id="7378fe74-c966-469d-9757-be7f8b95874b" Title="Veeplay.media" Url="html/fb324285-6fec-e934-20ad-16e5a3c33b22.htm">
+        <HelpTOCNode Id="c49cd698-4035-45db-9669-26b2f4f8ade4" Title="MediaBuilder Class" Url="html/6fabfe3d-a7cd-5b0f-87a7-8dd087306bfa.htm">
           <HelpTOCNode Title="MediaBuilder Constructor " Url="html/92e3fddb-5d33-7fbf-bb1a-2126e97536a8.htm" />
-          <HelpTOCNode Id="6bd5e66d-8ad5-4df5-af19-609cafc5d2c0" Title="MediaBuilder Fields" Url="html/44c0f3e9-cc59-418e-5ca8-42cd8cb01e4c.htm">
+          <HelpTOCNode Id="e9a1f86c-88fe-473c-b478-cf6eee1f3e11" Title="MediaBuilder Fields" Url="html/44c0f3e9-cc59-418e-5ca8-42cd8cb01e4c.htm">
             <HelpTOCNode Title="adBreaks Field" Url="html/178cf316-2eaa-1eff-6c60-27224c440eeb.htm" />
             <HelpTOCNode Title="adBreakTemplate Field" Url="html/08b42eb9-389f-24af-470e-ee20b9476048.htm" />
             <HelpTOCNode Title="bumperUnits Field" Url="html/a84e1799-5741-ad83-66b9-a1139b7e738d.htm" />
@@ -66,11 +66,11 @@
             <HelpTOCNode Title="vastURL Field" Url="html/a53c4625-9742-1a9b-ec23-e314884ed65c.htm" />
             <HelpTOCNode Title="vmapURL Field" Url="html/0ee6e6f3-590f-349e-9c4e-0790d52f801a.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="43871a87-6d9b-4d52-91a3-d4ed4dd36a3d" Title="MediaBuilder Methods" Url="html/b168c462-8776-4a69-3b3f-4ac6e1b74d4f.htm">
+          <HelpTOCNode Id="b2453757-5cd5-4f7e-b0d4-8135cffd64e4" Title="MediaBuilder Methods" Url="html/b168c462-8776-4a69-3b3f-4ac6e1b74d4f.htm">
             <HelpTOCNode Title="adBreaksForVMAP Method " Url="html/982dd79a-f271-e43d-ee03-1dc5041d04c2.htm" />
             <HelpTOCNode Title="configureFromData Method " Url="html/2a85efb0-88f0-df51-31ce-c73b52fcdf0c.htm" />
             <HelpTOCNode Title="configureFromDictionary Method " Url="html/6d862057-1b5d-00a0-ec58-4c2df8305ff2.htm" />
-            <HelpTOCNode Id="f3d6991d-0fc1-4206-a9ad-d73e627d18ff" Title="configureFromURL Method " Url="html/80bae4ac-a7a4-c82e-a23d-30901d4e9085.htm">
+            <HelpTOCNode Id="e545b767-0723-4c1d-bf09-324a40114d7b" Title="configureFromURL Method " Url="html/80bae4ac-a7a4-c82e-a23d-30901d4e9085.htm">
               <HelpTOCNode Title="configureFromURL Method (String)" Url="html/e0e5a9bf-6ad5-76b4-7120-63e4b474b3fb.htm" />
               <HelpTOCNode Title="configureFromURL Method (Uri)" Url="html/3c1bdc75-9c08-5740-1b4f-7b3ae4523c18.htm" />
             </HelpTOCNode>
@@ -86,8 +86,8 @@
         <HelpTOCNode Title="MediaBuilder.MovieControlStyle Enumeration" Url="html/f7ca737f-6dc5-a169-6261-755680ecdcce.htm" />
         <HelpTOCNode Title="MediaBuilder.ResolveMultipleAdsConflictsBy Enumeration" Url="html/204216b2-1678-b35e-e80c-58ce29df7d54.htm" />
         <HelpTOCNode Title="MediaBuilder.WebviewDismissedAction Enumeration" Url="html/2b5f39d0-6132-ca27-1ce9-4017e9f0f0d7.htm" />
-        <HelpTOCNode Id="88289a3f-958c-4632-8569-e1ad034196ed" Title="MediaPlayer Class" Url="html/1737ba6d-710c-31e8-890f-cddbf666cbd1.htm">
-          <HelpTOCNode Id="0f8cd773-56a9-4acd-97e8-8dd4a25d924e" Title="MediaPlayer Fields" Url="html/1ad2ce20-bdb0-2c1f-091a-0693c8f7da14.htm">
+        <HelpTOCNode Id="50ec5b1b-44f8-4c23-a38d-dd365d0fde86" Title="MediaPlayer Class" Url="html/1737ba6d-710c-31e8-890f-cddbf666cbd1.htm">
+          <HelpTOCNode Id="959fc8d4-2cff-4d67-8d77-85242fdade04" Title="MediaPlayer Fields" Url="html/1ad2ce20-bdb0-2c1f-091a-0693c8f7da14.htm">
             <HelpTOCNode Title="_eventsToInsert Field" Url="html/bed676e9-5df6-2a6f-d34c-7499dfe2ff3c.htm" />
             <HelpTOCNode Title="_eventsToTrigger Field" Url="html/e248c6f2-b125-2b2c-9b75-6d52fcdd08fc.htm" />
             <HelpTOCNode Title="_ignoredEvents Field" Url="html/39bb78d2-843c-7829-1fd2-6720e4ac6680.htm" />
@@ -109,12 +109,12 @@
             <HelpTOCNode Title="MoviePlayerWasTappedNotification Field" Url="html/184fc0be-bc0f-ea9c-db68-7f2791bf5d59.htm" />
             <HelpTOCNode Title="selectedRenderer Field" Url="html/a31946ee-cfc1-1f61-01f6-26b6a53c81b7.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="4a8e620a-2e5b-49c9-aef0-93d4dc304985" Title="MediaPlayer Methods" Url="html/e5d76739-eece-37f3-1bd3-58b1e350b874.htm">
+          <HelpTOCNode Id="9c7c2fc5-1a08-4fe7-bac0-b43571956bcc" Title="MediaPlayer Methods" Url="html/e5d76739-eece-37f3-1bd3-58b1e350b874.htm">
             <HelpTOCNode Title="addTrackingEventHandler Method " Url="html/a916b2a2-c9c2-4f4c-6b8b-828e443bf3a2.htm" />
             <HelpTOCNode Title="back Method " Url="html/9376961f-0e1f-b581-c6ab-1c86d8ef921a.htm" />
             <HelpTOCNode Title="controlsOverlay Method " Url="html/e42c87ea-8ef2-648f-b991-3940b030b768.htm" />
             <HelpTOCNode Title="createTimer Method " Url="html/8de3d0b1-47de-04d2-6aa0-404bb7d46fb6.htm" />
-            <HelpTOCNode Id="546ac668-00ef-4488-8d1c-7c8105d5005f" Title="currentPlaybackTime Method " Url="html/acec9bbb-fbd3-7cb1-ae8c-566f9e8c7f19.htm">
+            <HelpTOCNode Id="10fc6fa7-38b6-43f5-804b-3674ef33a358" Title="currentPlaybackTime Method " Url="html/acec9bbb-fbd3-7cb1-ae8c-566f9e8c7f19.htm">
               <HelpTOCNode Title="currentPlaybackTime Method " Url="html/e0eb9de2-e350-a2ea-efd4-666e66d0f167.htm" />
               <HelpTOCNode Title="currentPlaybackTime Method (Boolean)" Url="html/6ab77b8b-b3b0-2e62-52f4-e9db0b660b5c.htm" />
             </HelpTOCNode>
@@ -169,33 +169,33 @@
             <HelpTOCNode Title="updateDisplayedOverlays Method " Url="html/174e5367-3a4e-a7fe-3eae-eb954093a9e1.htm" />
             <HelpTOCNode Title="updateOverlay Method " Url="html/b6256157-0451-9010-82d1-32926504bef0.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="26f42e91-7e70-4548-a0d6-ed0f36cdebf2" Title="MediaPlayer Properties" Url="html/77509468-91bf-7504-f89e-1784ef31512b.htm">
+          <HelpTOCNode Id="2472ac82-0f27-4311-9480-e6bef434e462" Title="MediaPlayer Properties" Url="html/77509468-91bf-7504-f89e-1784ef31512b.htm">
             <HelpTOCNode Title="debugLevel Property " Url="html/694077dd-7277-9ee0-3fbf-a08029d1ba27.htm" />
             <HelpTOCNode Title="debugMode Property " Url="html/a6fad788-7f29-320f-d38b-0d3384d55e65.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="dc1fce4a-1155-45e9-a988-3b895fd52777" Title="MediaPlayer Events" Url="html/92bdb2e0-f4bd-a965-5411-163f3823bfa7.htm">
+          <HelpTOCNode Id="8a9bf5f4-86bc-4a9b-ab17-2f1a9b21bfc1" Title="MediaPlayer Events" Url="html/92bdb2e0-f4bd-a965-5411-163f3823bfa7.htm">
             <HelpTOCNode Title="PlayerEvent Event" Url="html/4f856d58-e760-1176-1ed3-24d75948ca2f.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
         <HelpTOCNode Title="MediaPlayer.MovieFinishReason Enumeration" Url="html/94b769fd-74a4-121a-22cc-1d61f9bb72f4.htm" />
         <HelpTOCNode Title="MediaPlayer.MoviePlaybackState Enumeration" Url="html/fa62993f-c460-0813-6803-8d70e56610ab.htm" />
-        <HelpTOCNode Id="fd1fcd65-4754-49e1-a62d-e34a5ab7666a" Title="MediaTrackableObject Class" Url="html/f134e2e8-e8b8-4ab6-c1ab-cfbfff182492.htm">
+        <HelpTOCNode Id="727e7b55-3e3c-4f55-a1c5-48fba6a83d65" Title="MediaTrackableObject Class" Url="html/f134e2e8-e8b8-4ab6-c1ab-cfbfff182492.htm">
           <HelpTOCNode Title="MediaTrackableObject Constructor " Url="html/0f336db9-974d-1598-8bd3-eaf26b3dd2b2.htm" />
-          <HelpTOCNode Id="e38cc755-420f-4da7-b40f-07ceee0cdca4" Title="MediaTrackableObject Fields" Url="html/b1730e14-4af8-e76e-e0b2-61500c3f357a.htm">
+          <HelpTOCNode Id="60aaf254-ebd6-4392-864d-f5ca37346ebd" Title="MediaTrackableObject Fields" Url="html/b1730e14-4af8-e76e-e0b2-61500c3f357a.htm">
             <HelpTOCNode Title="trackingURLs Field" Url="html/110ac61b-85a9-1578-491c-eb55b26a0f13.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="MediaTrackableObject Methods" Url="html/c01ef7f2-3e68-1015-bbb6-293d49c9fc2d.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="41393bb2-aa02-48eb-aaac-1e3bd0756520" Title="MediaTrackingEvents Class" Url="html/62d2ab35-5884-83fd-99ba-451a985c5d82.htm">
+        <HelpTOCNode Id="62a15f3a-b8a4-452a-996d-cfe45cb7ffe4" Title="MediaTrackingEvents Class" Url="html/62d2ab35-5884-83fd-99ba-451a985c5d82.htm">
           <HelpTOCNode Title="MediaTrackingEvents Constructor " Url="html/1d4da50e-f59d-8dd3-3649-02328572b0fe.htm" />
           <HelpTOCNode Title="MediaTrackingEvents Methods" Url="html/0a7ec2ca-733a-96b0-1801-f512dbbf8242.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="MediaTrackingEvents.MediaEventType Enumeration" Url="html/98546368-5f20-726f-56da-e986863b857b.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="27e35699-4a1f-49d0-99e5-068dff19cf87" Title="Veeplay.media.events" Url="html/350f33c1-f4a0-7e2d-8ed8-e2ed28a12569.htm">
-        <HelpTOCNode Id="ab888d4f-badb-47ef-bf8f-011d0619bdcc" Title="MediaEvent Class" Url="html/f8b087e7-6215-8130-b112-3ff1015e579f.htm">
+      <HelpTOCNode Id="f73cb315-2d9a-45a8-8ab3-45662adf5c70" Title="Veeplay.media.events" Url="html/350f33c1-f4a0-7e2d-8ed8-e2ed28a12569.htm">
+        <HelpTOCNode Id="ffb36e01-1f47-4c42-8595-18f89e213358" Title="MediaEvent Class" Url="html/f8b087e7-6215-8130-b112-3ff1015e579f.htm">
           <HelpTOCNode Title="MediaEvent Constructor " Url="html/f221d8ec-7d4a-6d2f-0841-6edfb04b8d0d.htm" />
-          <HelpTOCNode Id="4e56ead4-a9eb-47d4-96a8-1cb89f023a87" Title="MediaEvent Fields" Url="html/44dc58c6-6992-49dd-12ee-c3744578b29b.htm">
+          <HelpTOCNode Id="7060c120-ad75-41ca-9ed2-85717ab4504d" Title="MediaEvent Fields" Url="html/44dc58c6-6992-49dd-12ee-c3744578b29b.htm">
             <HelpTOCNode Title="_absoluteDuration Field" Url="html/ca77dacd-0408-2a88-9215-fc1cb232a4bc.htm" />
             <HelpTOCNode Title="_endPoint Field" Url="html/00224b06-5a10-12c2-389e-925d554b8735.htm" />
             <HelpTOCNode Title="_relativeEndPoint Field" Url="html/1bf7db50-8874-d08d-2693-e5c44e3d6285.htm" />
@@ -208,7 +208,7 @@
             <HelpTOCNode Title="repeatAfter Field" Url="html/88a8709b-a552-c477-ea64-ecb2dae7742c.htm" />
             <HelpTOCNode Title="timeout Field" Url="html/c73b6357-7586-3a31-1556-9020432d5dfa.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="a7aaa44f-71a1-43b6-83e2-ae770a99f0d3" Title="MediaEvent Methods" Url="html/cba9da4a-dc31-4a05-d82d-11b9ba0d5a2c.htm">
+          <HelpTOCNode Id="8a0f41ae-0d91-4366-ae2e-43a5348a4f7f" Title="MediaEvent Methods" Url="html/cba9da4a-dc31-4a05-d82d-11b9ba0d5a2c.htm">
             <HelpTOCNode Title="adjustForAbsoluteDuration Method " Url="html/01d50ba0-f226-7791-52fe-cfb40648c041.htm" />
             <HelpTOCNode Title="adjustRelativeToDuration Method " Url="html/ed830a5c-e909-777b-1d9e-6a34ea676c30.htm" />
             <HelpTOCNode Title="endPoint Method " Url="html/5042a465-28d5-9a9b-fe6a-ef6a35837b3f.htm" />
@@ -227,26 +227,26 @@
             <HelpTOCNode Title="unload Method " Url="html/2da18d81-14ff-e944-f1bb-27124bf459f2.htm" />
             <HelpTOCNode Title="updateState Method " Url="html/c175eab8-f28b-11e3-0ac1-9a08443e74df.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="31f6de55-9e5b-4cfa-9d3b-21b8c5104e2c" Title="MediaEvent Events" Url="html/74ae24a1-d534-975d-fcfa-e3b76e97328e.htm">
+          <HelpTOCNode Id="1dc139b7-a047-44c7-be89-95d7e47bd60d" Title="MediaEvent Events" Url="html/74ae24a1-d534-975d-fcfa-e3b76e97328e.htm">
             <HelpTOCNode Title="StateChanged Event" Url="html/9455753d-8c8c-15f8-0f72-3a03bbec96e9.htm" />
             <HelpTOCNode Title="TimeoutEvent Event" Url="html/8123219f-43ea-60b3-caca-2b0a6240f8f3.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
         <HelpTOCNode Title="MediaEvent.MediaEventState Enumeration" Url="html/e6dbc29f-cd03-6b1c-11c1-3f39bc1067bd.htm" />
-        <HelpTOCNode Id="632fa6cd-fb72-4eb5-9a06-7ccdb6239d3f" Title="MediaEventStateChangedEventArgs Class" Url="html/84583063-7bad-46dc-462b-d06ff84af045.htm">
+        <HelpTOCNode Id="d646153b-b991-402a-923e-a7d3084c9d0e" Title="MediaEventStateChangedEventArgs Class" Url="html/84583063-7bad-46dc-462b-d06ff84af045.htm">
           <HelpTOCNode Title="MediaEventStateChangedEventArgs Constructor " Url="html/754da675-09e9-2056-cdfe-16d528729778.htm" />
           <HelpTOCNode Title="MediaEventStateChangedEventArgs Methods" Url="html/3e230ec4-7d0b-1e14-d386-a79c326a94c9.htm" />
-          <HelpTOCNode Id="15d001ca-d736-4a18-b719-0e3d35b36e80" Title="MediaEventStateChangedEventArgs Properties" Url="html/2d8ce62d-cf3d-41b7-fe6c-2952de03cb71.htm">
+          <HelpTOCNode Id="3b351e1f-72d4-451f-84fb-eeadcd6db846" Title="MediaEventStateChangedEventArgs Properties" Url="html/2d8ce62d-cf3d-41b7-fe6c-2952de03cb71.htm">
             <HelpTOCNode Title="State Property " Url="html/0868c19c-1605-04c1-605d-e691cd31964e.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="9060ce94-daa7-4401-9cf7-b71786f63077" Title="MediaEventTimeoutEventArgs Class" Url="html/ac78ece5-93cd-8127-0e5b-00e7a62330d3.htm">
+        <HelpTOCNode Id="3d35ed41-6568-4de5-b12d-214cc808c5df" Title="MediaEventTimeoutEventArgs Class" Url="html/ac78ece5-93cd-8127-0e5b-00e7a62330d3.htm">
           <HelpTOCNode Title="MediaEventTimeoutEventArgs Constructor " Url="html/5c424149-958b-d2bf-4f73-a7369fc091b2.htm" />
           <HelpTOCNode Title="MediaEventTimeoutEventArgs Methods" Url="html/fdb7535a-ad3e-ab25-ac0e-08b078006115.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="831f2d0c-34ee-4c9e-aaa4-96fe3c754345" Title="MediaOverlay Class" Url="html/30a959c4-fea0-9ffa-2bfc-d3b1760c430a.htm">
+        <HelpTOCNode Id="933290da-cb2c-4734-b726-cb4efcf5b954" Title="MediaOverlay Class" Url="html/30a959c4-fea0-9ffa-2bfc-d3b1760c430a.htm">
           <HelpTOCNode Title="MediaOverlay Constructor " Url="html/3fcbfbad-967b-16a6-6a4e-63ba491a8f93.htm" />
-          <HelpTOCNode Id="9af0d3a1-fac4-4a59-a468-30335ea33a90" Title="MediaOverlay Fields" Url="html/7327fce5-ddbf-bb2b-b76c-ba3e68514344.htm">
+          <HelpTOCNode Id="23feb40a-b34c-4b20-9fc9-b753aafa4c6f" Title="MediaOverlay Fields" Url="html/7327fce5-ddbf-bb2b-b76c-ba3e68514344.htm">
             <HelpTOCNode Title="absoluteOffsetX Field" Url="html/9ca1c40d-9b6b-51eb-c003-625d5ed94a04.htm" />
             <HelpTOCNode Title="absoluteOffsetY Field" Url="html/4f613474-a3fa-3b48-a7ff-f14b70b1882d.htm" />
             <HelpTOCNode Title="controller Field" Url="html/aacdf945-ccea-e9a9-c995-81ebacf067df.htm" />
@@ -263,7 +263,7 @@
             <HelpTOCNode Title="width Field" Url="html/16e857b7-3d11-5595-a946-980eac904e26.htm" />
             <HelpTOCNode Title="zIndex Field" Url="html/bba84e71-746b-bda3-8e69-971f7951d11a.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="e3a88412-880c-41aa-9054-235da125f3af" Title="MediaOverlay Methods" Url="html/cc3f20eb-7f36-499b-7952-899199f0fe4a.htm">
+          <HelpTOCNode Id="36d4b766-fdab-45b9-a298-eda6b34571c6" Title="MediaOverlay Methods" Url="html/cc3f20eb-7f36-499b-7952-899199f0fe4a.htm">
             <HelpTOCNode Title="cloneOverlay Method " Url="html/5a5c1143-5f89-18c9-2899-0108330a00d3.htm" />
             <HelpTOCNode Title="computeDimensions Method " Url="html/92b4f77c-f0f8-6a93-05d4-dede1f2ee3ec.htm" />
             <HelpTOCNode Title="onPreload Method " Url="html/fb7619d1-eca5-608b-e7e1-72bb193dd24b.htm" />
@@ -275,18 +275,18 @@
           <HelpTOCNode Title="MediaOverlay Events" Url="html/38688590-ead5-d2dc-3128-edc99dda13f5.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="MediaOverlay.MediaOverlayPosition Enumeration" Url="html/24c16b8c-0d18-ec51-8e78-7aef90c9207d.htm" />
-        <HelpTOCNode Id="ee8394f5-c212-47ac-9e16-6aa267181333" Title="MediaPlayerEventArgs Class" Url="html/1aceaa14-758b-e5f4-0476-25ce1d1fbfb0.htm">
+        <HelpTOCNode Id="5645526f-e7b6-48f8-9d9a-39a4aad374e6" Title="MediaPlayerEventArgs Class" Url="html/1aceaa14-758b-e5f4-0476-25ce1d1fbfb0.htm">
           <HelpTOCNode Title="MediaPlayerEventArgs Constructor " Url="html/51b1c150-5c4d-4db9-8c5c-bc45d79616ab.htm" />
           <HelpTOCNode Title="MediaPlayerEventArgs Methods" Url="html/af76397f-7e0c-347a-02a7-c45fdea6f231.htm" />
-          <HelpTOCNode Id="3b84a828-c7c8-4f7e-9c44-9f513a65e53c" Title="MediaPlayerEventArgs Properties" Url="html/f32f1608-aa9c-4e43-8a5d-3b3b52504b20.htm">
+          <HelpTOCNode Id="be15d703-8550-4add-b9a5-b75ca97ad85b" Title="MediaPlayerEventArgs Properties" Url="html/f32f1608-aa9c-4e43-8a5d-3b3b52504b20.htm">
             <HelpTOCNode Title="Message Property " Url="html/a7e903e1-8d98-268a-982e-03ef60ae55e5.htm" />
             <HelpTOCNode Title="Type Property " Url="html/8aceff67-0a33-e78f-9d90-4928acef8ac0.htm" />
             <HelpTOCNode Title="Urls Property " Url="html/14e79bbc-d6a7-2af0-0858-b074ab05c231.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="07281d97-4f3f-4022-afc4-74c3440404ab" Title="MediaUnit Class" Url="html/3fd875c0-a3e2-4aa1-0e8e-ab4c03ed5062.htm">
+        <HelpTOCNode Id="b86ec743-9021-4e0d-91e0-d2b9261ac327" Title="MediaUnit Class" Url="html/3fd875c0-a3e2-4aa1-0e8e-ab4c03ed5062.htm">
           <HelpTOCNode Title="MediaUnit Constructor " Url="html/fd1b67a3-f7d5-5586-a23b-34ba0eecdfcf.htm" />
-          <HelpTOCNode Id="dc43491f-1e15-49c4-9781-9a59ccd303c6" Title="MediaUnit Fields" Url="html/dc2ed973-e418-6e3b-88b3-fb697f6e5dee.htm">
+          <HelpTOCNode Id="9c6f77b3-6c6c-4e01-be5e-c6095ceb087c" Title="MediaUnit Fields" Url="html/dc2ed973-e418-6e3b-88b3-fb697f6e5dee.htm">
             <HelpTOCNode Title="_positionedDynamicEvents Field" Url="html/7d74614f-d6bc-e274-7d2d-aada33d30c9b.htm" />
             <HelpTOCNode Title="canReplay Field" Url="html/53ecbd10-bced-03eb-e44a-05981e98dc15.htm" />
             <HelpTOCNode Title="controlsDisplay Field" Url="html/1c2efd01-f5e5-5cca-0695-d36e2ed68604.htm" />
@@ -308,7 +308,7 @@
             <HelpTOCNode Title="sourceAdBreak Field" Url="html/64b2911f-641f-7af7-93f2-961e258ca59e.htm" />
             <HelpTOCNode Title="url Field" Url="html/0d3eb980-7617-726b-ad99-3518dad6e445.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="96d887c7-1b67-4abe-84f2-f6db1b7af743" Title="MediaUnit Methods" Url="html/492f28f8-e047-3183-6158-67ae0795bfe8.htm">
+          <HelpTOCNode Id="32f1f1c9-a662-4142-bbbf-636d2997d9b0" Title="MediaUnit Methods" Url="html/492f28f8-e047-3183-6158-67ae0795bfe8.htm">
             <HelpTOCNode Title="addEvent Method " Url="html/a8808331-17d7-df98-79b6-7fcd69c6b3c1.htm" />
             <HelpTOCNode Title="addOverlay Method " Url="html/8efa4592-6e91-93ad-6ed9-f966b98122ad.htm" />
             <HelpTOCNode Title="clearOverlays Method " Url="html/7b3aa5df-cb35-a08c-e23d-c1aa0f5f2f9d.htm" />
@@ -328,9 +328,9 @@
         </HelpTOCNode>
         <HelpTOCNode Title="MediaUnit.HandleSeekEvent Enumeration" Url="html/b44d666c-f65e-2d53-fd62-e2c4390568d1.htm" />
         <HelpTOCNode Title="MediaUnit.MediaControlsDisplay Enumeration" Url="html/31c135c9-9b01-6d4a-a76a-3d12c6e416db.htm" />
-        <HelpTOCNode Id="34adaea9-8783-4a2c-93d7-f3c4dd90bca4" Title="VastAdBreak Class" Url="html/7553dec0-0473-bf1f-6ff2-41352789f028.htm">
+        <HelpTOCNode Id="d3c5b820-c69a-489c-afc7-a8c805c2ad3c" Title="VastAdBreak Class" Url="html/7553dec0-0473-bf1f-6ff2-41352789f028.htm">
           <HelpTOCNode Title="VastAdBreak Constructor " Url="html/37791f36-f735-516d-2917-f20e990a71aa.htm" />
-          <HelpTOCNode Id="c9da1864-15cd-4316-bfa7-e0b6042f1e9b" Title="VastAdBreak Fields" Url="html/05be7221-2c79-b42f-9577-b2c74c0ba8a4.htm">
+          <HelpTOCNode Id="ab8f39ac-5957-4489-9b5c-f4ddbdf46d28" Title="VastAdBreak Fields" Url="html/05be7221-2c79-b42f-9577-b2c74c0ba8a4.htm">
             <HelpTOCNode Title="adOffset Field" Url="html/d13dc535-5a73-9e25-b15e-483873d53cdf.htm" />
             <HelpTOCNode Title="adPodFallbackStrategy Field" Url="html/55ddd435-1c70-36e3-310f-49eee6381741.htm" />
             <HelpTOCNode Title="afterBannerTapped Field" Url="html/af63c7bb-c44b-f70b-6564-d16a0cac2294.htm" />
@@ -398,9 +398,9 @@
             <HelpTOCNode Title="VastPostrollUnit Field" Url="html/1420a994-b64b-cd18-1f7d-b294cf952b0b.htm" />
             <HelpTOCNode Title="VastPrerollUnit Field" Url="html/4d8689a6-b409-e1da-4047-acd073102e01.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="82dfb558-ef39-493f-9120-14c2a6175d3a" Title="VastAdBreak Methods" Url="html/845907da-9d79-798f-b23a-616f4197af2b.htm">
+          <HelpTOCNode Id="329bcf40-832b-46b9-a266-7838e86d9562" Title="VastAdBreak Methods" Url="html/845907da-9d79-798f-b23a-616f4197af2b.htm">
             <HelpTOCNode Title="adBreakTrackErrorWithCodeEvent Method " Url="html/60e8015a-09dd-8c80-90f4-7fa260cec119.htm" />
-            <HelpTOCNode Id="b975bcee-7c0d-4cb5-8c09-b62dc08e0912" Title="addSource Method " Url="html/1f8bba41-5a1f-a1a3-9e40-ede82ada8799.htm">
+            <HelpTOCNode Id="a00d4c49-2cd0-4117-b199-8db8640c8765" Title="addSource Method " Url="html/1f8bba41-5a1f-a1a3-9e40-ede82ada8799.htm">
               <HelpTOCNode Title="addSource Method (String)" Url="html/79b6b359-2a1c-5f12-bb20-7a9d678a2ccf.htm" />
               <HelpTOCNode Title="addSource Method (VASTXMLNode)" Url="html/97a9b9fb-5a62-61a8-acd5-19397f3d4bce.htm" />
             </HelpTOCNode>
@@ -416,7 +416,7 @@
             <HelpTOCNode Title="onUpdate Method " Url="html/79b70f6d-da4c-c117-6d73-446da4dcd6ed.htm" />
             <HelpTOCNode Title="overlaysForNonlinearsInInlineNodes Method " Url="html/f975c846-be80-da30-74e9-1b70213b2962.htm" />
             <HelpTOCNode Title="parseAdBreaksDictionary Method " Url="html/9535c397-93e7-308f-3411-1e772996bbf2.htm" />
-            <HelpTOCNode Id="fbfb52b4-21ef-4653-a5bd-90267d83c12b" Title="removeSource Method " Url="html/909638b3-f040-8aef-b55d-e88b10c6a815.htm">
+            <HelpTOCNode Id="ba9f6b60-846c-4bc0-8122-74ca04de25cf" Title="removeSource Method " Url="html/909638b3-f040-8aef-b55d-e88b10c6a815.htm">
               <HelpTOCNode Title="removeSource Method (String)" Url="html/c02e757b-abf5-578b-c0d5-1fd9bdfa4274.htm" />
               <HelpTOCNode Title="removeSource Method (VASTXMLNode)" Url="html/094c6b4d-e4bf-f507-25f3-a9777b88fb9b.htm" />
             </HelpTOCNode>
@@ -428,9 +428,9 @@
           <HelpTOCNode Title="VastAdBreak Events" Url="html/7cac3ca9-1ae3-b08a-1baf-5c467565932f.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="VastAdBreak.VASTConfigurationOptions Enumeration" Url="html/238b065a-f869-bdc0-4797-8d0665143e51.htm" />
-        <HelpTOCNode Id="d22a00b2-177c-4859-baec-1298f61789b7" Title="VMAPTemplates Class" Url="html/a4676516-45a4-d148-3409-a56447a71b80.htm">
+        <HelpTOCNode Id="3585a007-d05e-4d1b-b82d-88b87100a483" Title="VMAPTemplates Class" Url="html/a4676516-45a4-d148-3409-a56447a71b80.htm">
           <HelpTOCNode Title="VMAPTemplates Constructor " Url="html/6e2e29e7-0a9f-ca27-0bb4-5b6d1b4e03df.htm" />
-          <HelpTOCNode Id="171d99fe-a192-4aac-aae8-4fa36bc009d1" Title="VMAPTemplates Fields" Url="html/1dd95d06-3b2c-dfea-231f-86d05d453af5.htm">
+          <HelpTOCNode Id="6e8551fe-0543-488e-8cdb-db92ac4330c6" Title="VMAPTemplates Fields" Url="html/1dd95d06-3b2c-dfea-231f-86d05d453af5.htm">
             <HelpTOCNode Title="AD_BREAK_TEMPLATE Field" Url="html/54b92f16-1c94-c898-880d-f7b820e39dc5.htm" />
             <HelpTOCNode Title="AD_TAG_URI_TEMPLATE Field" Url="html/9d021a02-d6ec-8c5d-6391-86134405b3a5.htm" />
             <HelpTOCNode Title="MIDROLL Field" Url="html/e3cdddf6-9773-0bfb-ce87-45db938b39b2.htm" />
@@ -442,15 +442,15 @@
             <HelpTOCNode Title="URI_PLACEHOLDER Field" Url="html/d754f520-0d77-c51f-83c6-5cefc44e5131.htm" />
             <HelpTOCNode Title="VMAP_TEMPLATE Field" Url="html/bc2e76e8-16ec-c40d-f3ea-d398b21657d4.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="ff58f4e9-f1a4-4fba-a07e-c538ac67cfb7" Title="VMAPTemplates Methods" Url="html/3bc06302-7754-31ff-bf9e-148c1bb46a80.htm">
+          <HelpTOCNode Id="22e163aa-fb44-4c1d-81c4-bf4a1addbed1" Title="VMAPTemplates Methods" Url="html/3bc06302-7754-31ff-bf9e-148c1bb46a80.htm">
             <HelpTOCNode Title="getVMAPForAdBreakArrayList Method " Url="html/bb0cf39a-de6d-7154-9771-e4b53b55cc11.htm" />
             <HelpTOCNode Title="getVMAPForVAST Method " Url="html/3ac1c179-7a6e-4761-d298-e43e92f5b134.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="1089e127-33da-4e89-a299-3b8897129dc9" Title="Veeplay.media.renderers" Url="html/b00c9926-564d-f3c7-6f96-a8de03a4920d.htm">
-        <HelpTOCNode Id="36bbd886-91db-4dfc-acb7-2a71c64804a6" Title="IMediaRenderer Interface" Url="html/330ea095-e3c4-9810-d1bb-cfc9c239213c.htm">
-          <HelpTOCNode Id="195855e5-1cef-41cf-a7ae-dad280893e3a" Title="IMediaRenderer Methods" Url="html/6b6b1803-f04c-64b3-db6e-2adde28e7b3e.htm">
+      <HelpTOCNode Id="b1cd530a-6189-4baa-b727-f345f4195aef" Title="Veeplay.media.renderers" Url="html/b00c9926-564d-f3c7-6f96-a8de03a4920d.htm">
+        <HelpTOCNode Id="1fb6ac68-bceb-4eb2-8c17-052e029337e7" Title="IMediaRenderer Interface" Url="html/330ea095-e3c4-9810-d1bb-cfc9c239213c.htm">
+          <HelpTOCNode Id="ff1b113b-b6aa-4413-9b59-ba4b07547c80" Title="IMediaRenderer Methods" Url="html/6b6b1803-f04c-64b3-db6e-2adde28e7b3e.htm">
             <HelpTOCNode Title="getPlayer Method " Url="html/733ceda2-42ad-e840-a806-2a0fbd1dba1c.htm" />
             <HelpTOCNode Title="isPlaying Method " Url="html/a3bdbaad-c887-f0d2-a1b1-8c5445cc8b84.htm" />
             <HelpTOCNode Title="isTogglingFullscreen Method " Url="html/cb403d62-6f73-2b7e-3a84-e07c808e61e3.htm" />
@@ -460,7 +460,7 @@
             <HelpTOCNode Title="SetSource Method " Url="html/2f7672b0-b72c-aaae-f9e0-ed3ce1a0c0b1.htm" />
             <HelpTOCNode Title="Stop Method " Url="html/a2c9baa8-7648-4cec-a96b-94a259734896.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="699778c7-f794-45b1-a00e-15619d271b89" Title="IMediaRenderer Properties" Url="html/1bb20464-6d43-a8fc-6f1e-d27cb7477d48.htm">
+          <HelpTOCNode Id="c9465750-ccea-49d9-a768-7f6af254cd60" Title="IMediaRenderer Properties" Url="html/1bb20464-6d43-a8fc-6f1e-d27cb7477d48.htm">
             <HelpTOCNode Title="BufferingProgress Property " Url="html/e605bb02-754a-5d3f-ea40-74185223e2b4.htm" />
             <HelpTOCNode Title="CurrentState Property " Url="html/333ed827-e140-7fbb-f5e1-3c38f41cbd53.htm" />
             <HelpTOCNode Title="displayFirstFrame Property " Url="html/e07727f6-69f9-d642-e863-ae693dd6cdd7.htm" />
@@ -472,7 +472,7 @@
             <HelpTOCNode Title="Volume Property " Url="html/884be444-7ffe-15e6-bd1b-05235717eaa1.htm" />
             <HelpTOCNode Title="waitForSeek Property " Url="html/018d44d5-2d12-27d9-76cf-3968c8cc9bdf.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="a8a7b330-246a-453e-9aec-c1f1869c4b6a" Title="IMediaRenderer Events" Url="html/84eef814-06f2-d975-d36b-f13a6736ae95.htm">
+          <HelpTOCNode Id="3e3d7ad5-f14b-4dcb-858b-9e9817bb1911" Title="IMediaRenderer Events" Url="html/84eef814-06f2-d975-d36b-f13a6736ae95.htm">
             <HelpTOCNode Title="BufferingUpdateEvent Event" Url="html/b877dac9-a97f-fa85-86c9-76730b74aaac.htm" />
             <HelpTOCNode Title="MediaEndedEvent Event" Url="html/33a63f6d-b588-1981-f945-4a2338265028.htm" />
             <HelpTOCNode Title="MediaFailedEvent Event" Url="html/8fe33371-83cd-3ebe-d66f-622b56bf37cd.htm" />
@@ -481,12 +481,12 @@
             <HelpTOCNode Title="StateChanged Event" Url="html/4ad54e03-ee42-274b-5d82-f071e9d6ebff.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="ca504a97-4b7c-4e81-ade5-b33fd9ff860f" Title="MediaElementRenderer Class" Url="html/8b81d6d6-3365-c0df-04ee-238d8eee278e.htm">
+        <HelpTOCNode Id="363851e5-98ce-403f-b622-fa44eeca9211" Title="MediaElementRenderer Class" Url="html/8b81d6d6-3365-c0df-04ee-238d8eee278e.htm">
           <HelpTOCNode Title="MediaElementRenderer Constructor " Url="html/766859c6-84c4-3838-7930-fcf2d1c5174f.htm" />
-          <HelpTOCNode Id="6acfaf14-ae44-4d8e-ad37-af7fa82ff906" Title="MediaElementRenderer Fields" Url="html/e7a609d2-6ca2-a6c3-052b-56c574478fd3.htm">
+          <HelpTOCNode Id="cd6974a7-be72-4760-a37c-420de794c710" Title="MediaElementRenderer Fields" Url="html/e7a609d2-6ca2-a6c3-052b-56c574478fd3.htm">
             <HelpTOCNode Title="rendererIdentifier Field" Url="html/bb16980e-90f4-453f-d1af-dd3c9c9f53b5.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="7561dd6f-67c7-4238-99ce-91d2eea545f9" Title="MediaElementRenderer Methods" Url="html/0e1df619-d2a5-2a7f-4a53-4bf8520753ff.htm">
+          <HelpTOCNode Id="f5c1945d-9810-4071-bc8c-5d415747c8d1" Title="MediaElementRenderer Methods" Url="html/0e1df619-d2a5-2a7f-4a53-4bf8520753ff.htm">
             <HelpTOCNode Title="getPlayer Method " Url="html/7da661bd-ddfe-0851-6910-f687ad5817ce.htm" />
             <HelpTOCNode Title="isPlaying Method " Url="html/e6a25afb-da16-37f6-45a8-1c08a1ade48f.htm" />
             <HelpTOCNode Title="isTogglingFullscreen Method " Url="html/d2d466c0-c99b-6363-e253-2dc1754b506f.htm" />
@@ -497,7 +497,7 @@
             <HelpTOCNode Title="Stop Method " Url="html/f2376373-a572-399c-d6ac-f075c9ada486.htm" />
             <HelpTOCNode Title="type Method " Url="html/6931145c-b655-5e95-d613-7c102f8fcc76.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="8a8e690f-f2a3-4dcb-a9b4-d224f392aec5" Title="MediaElementRenderer Properties" Url="html/cbe64ae9-0770-4447-5e5a-1f8881a00d1c.htm">
+          <HelpTOCNode Id="4872167d-5528-4535-93be-7c47e5a42af1" Title="MediaElementRenderer Properties" Url="html/cbe64ae9-0770-4447-5e5a-1f8881a00d1c.htm">
             <HelpTOCNode Title="BufferingProgress Property " Url="html/f49c9ac0-ee88-e4d0-248c-955e426ee7cb.htm" />
             <HelpTOCNode Title="CurrentState Property " Url="html/a31e1f4f-4576-921b-7cf1-5fa307f74934.htm" />
             <HelpTOCNode Title="displayFirstFrame Property " Url="html/435808d9-5eaa-d8b0-da08-79450af90e05.htm" />
@@ -509,7 +509,7 @@
             <HelpTOCNode Title="Volume Property " Url="html/b410a1a4-835e-c182-6767-17612b0c43a9.htm" />
             <HelpTOCNode Title="waitForSeek Property " Url="html/ac5f49f2-cb5c-62f1-31a1-994b0992b38a.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="1d691827-8a71-4743-9d22-5eea70be31d5" Title="MediaElementRenderer Events" Url="html/f8f117c1-c41c-f8b9-759d-5dae190324f8.htm">
+          <HelpTOCNode Id="6ce6e5d4-a32a-493a-baaf-b8cdc639e2b3" Title="MediaElementRenderer Events" Url="html/f8f117c1-c41c-f8b9-759d-5dae190324f8.htm">
             <HelpTOCNode Title="BufferingUpdateEvent Event" Url="html/9969374a-e8c9-1fd7-69d5-134a5afecea4.htm" />
             <HelpTOCNode Title="MediaEndedEvent Event" Url="html/4142dd27-93be-ef96-76e2-a8d358778b99.htm" />
             <HelpTOCNode Title="MediaFailedEvent Event" Url="html/90fb42cb-b85f-e6c1-daa9-3aa8bd225706.htm" />
@@ -518,18 +518,18 @@
             <HelpTOCNode Title="StateChanged Event" Url="html/14c22fb4-63ff-b022-e833-628b6da2be52.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="b9414829-cd24-486c-bb3c-73007d479b4d" Title="StreamUriWinRTResolver Class" Url="html/c727a681-78d3-286d-8198-ac6d08d9078c.htm">
+        <HelpTOCNode Id="12907da3-5a5d-41c6-81bf-5b30ae55796c" Title="StreamUriWinRTResolver Class" Url="html/c727a681-78d3-286d-8198-ac6d08d9078c.htm">
           <HelpTOCNode Title="StreamUriWinRTResolver Constructor " Url="html/e33c4819-d431-2375-31f6-f420382ef222.htm" />
-          <HelpTOCNode Id="eecc691a-3f49-46ef-abe5-f5487d909711" Title="StreamUriWinRTResolver Methods" Url="html/37084031-5769-6ece-98ec-5a405064b0b0.htm">
+          <HelpTOCNode Id="01f2601e-c100-4e06-91c7-2427c913b500" Title="StreamUriWinRTResolver Methods" Url="html/37084031-5769-6ece-98ec-5a405064b0b0.htm">
             <HelpTOCNode Title="UriToStreamAsync Method " Url="html/99fca99e-9aa6-f97d-6164-99a21356658a.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="6e21b287-50a0-4d01-a521-44470c69ee96" Title="VeeplayRenderer Class" Url="html/458c3ec6-d23b-2c9b-474c-4d5519d44ece.htm">
+        <HelpTOCNode Id="44fea155-9213-4d81-922e-e48fb0f04278" Title="VeeplayRenderer Class" Url="html/458c3ec6-d23b-2c9b-474c-4d5519d44ece.htm">
           <HelpTOCNode Title="VeeplayRenderer Constructor " Url="html/7e021a5c-67e2-3dfa-7c85-aae058eb3b41.htm" />
-          <HelpTOCNode Id="6a977729-2a34-43a2-aa17-886114856fed" Title="VeeplayRenderer Fields" Url="html/85ba42b7-2890-36f0-1ccb-69184cc2b3e3.htm">
+          <HelpTOCNode Id="3e1e4c58-b4d9-408e-9f13-58bbd1929e90" Title="VeeplayRenderer Fields" Url="html/85ba42b7-2890-36f0-1ccb-69184cc2b3e3.htm">
             <HelpTOCNode Title="rendererIdentifier Field" Url="html/50a2b78a-849c-45e2-ce4a-a8faef2562c8.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="c8de9216-df65-4c6d-b4db-9ec616178fcc" Title="VeeplayRenderer Methods" Url="html/4b42eba6-a38b-a92d-25ec-caed63dec163.htm">
+          <HelpTOCNode Id="02722aef-0509-4864-b859-34a4f7767600" Title="VeeplayRenderer Methods" Url="html/4b42eba6-a38b-a92d-25ec-caed63dec163.htm">
             <HelpTOCNode Title="getPlayer Method " Url="html/69720e6b-a490-75b8-7199-10c652801f86.htm" />
             <HelpTOCNode Title="isPlaying Method " Url="html/c96a22ed-9e56-ae30-0bec-2fc6cd74b5df.htm" />
             <HelpTOCNode Title="isTogglingFullscreen Method " Url="html/cc788fe9-2fce-6595-71bb-2dc7fbac58ea.htm" />
@@ -540,7 +540,7 @@
             <HelpTOCNode Title="Stop Method " Url="html/d8522a46-4622-acd9-3b28-6a22b06f0b7d.htm" />
             <HelpTOCNode Title="type Method " Url="html/5dd2ed02-490f-1180-b0d2-0bfd82ab4662.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="c66687e6-626c-496d-89d3-cc37f4b5fca7" Title="VeeplayRenderer Properties" Url="html/2d588ccf-1391-3197-92e8-c995dd1c60e6.htm">
+          <HelpTOCNode Id="7fa42af3-683c-4e80-8a22-2d3738ce1e3c" Title="VeeplayRenderer Properties" Url="html/2d588ccf-1391-3197-92e8-c995dd1c60e6.htm">
             <HelpTOCNode Title="BufferingProgress Property " Url="html/6402534f-d3d7-502c-2472-420050fb2d76.htm" />
             <HelpTOCNode Title="CurrentState Property " Url="html/e57424f6-8ae5-c997-df4d-5d16e5240ac8.htm" />
             <HelpTOCNode Title="displayFirstFrame Property " Url="html/9220d411-30b1-b411-aadf-03a1ecb788b2.htm" />
@@ -552,7 +552,7 @@
             <HelpTOCNode Title="Volume Property " Url="html/78e6b08c-a122-ff44-d03d-a4dac88bcc6d.htm" />
             <HelpTOCNode Title="waitForSeek Property " Url="html/b928b30e-44ba-b3a5-b496-a8eb0a1871c8.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="3a05db88-68a6-40ca-81da-eee34b4e0e33" Title="VeeplayRenderer Events" Url="html/fdd9562e-7c34-80b2-993f-70be21b5a79d.htm">
+          <HelpTOCNode Id="5f1bd407-0dd3-46fb-a2df-7b14036d1cb0" Title="VeeplayRenderer Events" Url="html/fdd9562e-7c34-80b2-993f-70be21b5a79d.htm">
             <HelpTOCNode Title="BufferingUpdateEvent Event" Url="html/87774c14-0354-75d1-718d-247a475065ba.htm" />
             <HelpTOCNode Title="MediaEndedEvent Event" Url="html/36265016-0a6d-cda6-d9a5-ba9ee1a0d0c3.htm" />
             <HelpTOCNode Title="MediaFailedEvent Event" Url="html/edc27c7c-c487-20df-da3d-0b9ce293ca51.htm" />
@@ -561,14 +561,14 @@
             <HelpTOCNode Title="StateChanged Event" Url="html/f76263f9-1f62-95bd-edeb-8b33cfc9e398.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="38955e6f-dece-4d05-a4c7-5d905bcb193b" Title="YoutubePlayerRenderer Class" Url="html/90d840a3-a4ab-77ea-e4bf-eeda942dd3c8.htm">
+        <HelpTOCNode Id="32076a73-5b06-4e5d-bb24-7479f9f59200" Title="YoutubePlayerRenderer Class" Url="html/90d840a3-a4ab-77ea-e4bf-eeda942dd3c8.htm">
           <HelpTOCNode Title="YoutubePlayerRenderer Constructor " Url="html/d8f729c7-3c14-f176-d3bf-5626a0813c56.htm" />
-          <HelpTOCNode Id="72cfe01e-d443-4ec5-9481-7d7fcfc208c7" Title="YoutubePlayerRenderer Fields" Url="html/243e8375-d19f-240e-a679-8a629d4689dc.htm">
+          <HelpTOCNode Id="4e694605-5bef-42ea-90e8-0edfbf0e2050" Title="YoutubePlayerRenderer Fields" Url="html/243e8375-d19f-240e-a679-8a629d4689dc.htm">
             <HelpTOCNode Title="_CurentState Field" Url="html/eb652c16-a0f2-7679-cc25-c8b07dbeb54e.htm" />
             <HelpTOCNode Title="Error Field" Url="html/cb502b8a-61c2-9aa4-828d-153ee02d547d.htm" />
             <HelpTOCNode Title="rendererIdentifier Field" Url="html/52ef3e30-3700-a22d-8139-51147f8d3300.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="298d0570-f867-4176-bc85-4233c5cc547f" Title="YoutubePlayerRenderer Methods" Url="html/f02f71b7-03ca-6e17-65af-4f6085e8cf84.htm">
+          <HelpTOCNode Id="fdda6063-5f0c-4b70-a364-e71c00ed8dc1" Title="YoutubePlayerRenderer Methods" Url="html/f02f71b7-03ca-6e17-65af-4f6085e8cf84.htm">
             <HelpTOCNode Title="getAvailablePlaybackRates Method " Url="html/c110e3df-4ca7-99cb-1908-fc59269284f3.htm" />
             <HelpTOCNode Title="getAvailableQualityLevels Method " Url="html/385b1c6f-da00-ce61-c46d-14dfee110725.htm" />
             <HelpTOCNode Title="getPlaybackQuality Method " Url="html/87b50ee9-4bf5-a633-5b12-01688bd8d64d.htm" />
@@ -583,7 +583,7 @@
             <HelpTOCNode Title="Stop Method " Url="html/4590611f-9785-d439-633e-c05543b101d2.htm" />
             <HelpTOCNode Title="type Method " Url="html/8f859ce7-9c4e-239f-a86a-038c9dd23b34.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="1e81f6c9-9f6c-4343-89f2-6185c2795116" Title="YoutubePlayerRenderer Properties" Url="html/4b8d9fe5-ab74-a2e8-322a-2945ecb84580.htm">
+          <HelpTOCNode Id="df16f537-10f9-43b4-b856-5e8a12a3f05e" Title="YoutubePlayerRenderer Properties" Url="html/4b8d9fe5-ab74-a2e8-322a-2945ecb84580.htm">
             <HelpTOCNode Title="BufferingProgress Property " Url="html/fdcd3a64-0f7b-b205-be21-94f220a2ba4d.htm" />
             <HelpTOCNode Title="CurrentState Property " Url="html/49e6760a-b979-4a3e-eda1-ee03bd409f84.htm" />
             <HelpTOCNode Title="displayFirstFrame Property " Url="html/1a602338-b1af-b55a-8925-78e8577906fa.htm" />
@@ -595,7 +595,7 @@
             <HelpTOCNode Title="Volume Property " Url="html/450cc751-2b15-eb73-04b7-2a5d31a7426d.htm" />
             <HelpTOCNode Title="waitForSeek Property " Url="html/83cb6355-174c-eb5c-50ba-cdc62b931ea1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="db19710c-cd85-4668-8076-63f7668f5049" Title="YoutubePlayerRenderer Events" Url="html/1bdb008b-a43e-4da1-7d98-5797a5d88fe7.htm">
+          <HelpTOCNode Id="99ed04c0-b888-47e0-93d9-feb889065096" Title="YoutubePlayerRenderer Events" Url="html/1bdb008b-a43e-4da1-7d98-5797a5d88fe7.htm">
             <HelpTOCNode Title="BufferingUpdateEvent Event" Url="html/813aa666-74a6-2f71-9e7f-7391e578fdf4.htm" />
             <HelpTOCNode Title="MediaEndedEvent Event" Url="html/69c16388-8347-af28-5fe6-e06f414b6aa8.htm" />
             <HelpTOCNode Title="MediaFailedEvent Event" Url="html/daccd365-a9a7-62f2-0d60-5832179cff5c.htm" />
@@ -606,30 +606,30 @@
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="055d47da-4786-4343-8cc2-5a65225f3375" Title="Veeplay.overlaycontrollers" Url="html/52826711-59d2-5c73-4d5c-681bd9e70477.htm">
-      <HelpTOCNode Id="21c38cc9-4774-4439-b5f7-fc20006e6421" Title="DismissActionContainer Class" Url="html/7d9c8649-f39f-c242-318f-f3c16926947d.htm">
-        <HelpTOCNode Id="e5f78506-7971-4c8b-b3d7-0f975a10b2de" Title="DismissActionContainer Fields" Url="html/771238c4-cd2a-a3cf-06bb-14a120de5058.htm">
+    <HelpTOCNode Id="7d518600-01d5-425f-b583-6c9ead48f4be" Title="Veeplay.overlaycontrollers" Url="html/52826711-59d2-5c73-4d5c-681bd9e70477.htm">
+      <HelpTOCNode Id="81712147-b07e-469c-8f7a-5fa87f1d7789" Title="DismissActionContainer Class" Url="html/7d9c8649-f39f-c242-318f-f3c16926947d.htm">
+        <HelpTOCNode Id="e2c9b3a0-fed1-4c07-a759-0a9ba9f3dc12" Title="DismissActionContainer Fields" Url="html/771238c4-cd2a-a3cf-06bb-14a120de5058.htm">
           <HelpTOCNode Title="INSTANCE Field" Url="html/9e47c216-5987-847c-d475-a075269a1d9a.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="6d14d59d-0963-4638-b90c-6f87c3a1549f" Title="DismissActionContainer Methods" Url="html/afff2044-f377-1cde-8971-84843c4d4aa9.htm">
+        <HelpTOCNode Id="01e4bf0e-39e4-4ae2-aecc-e5fb68003aa3" Title="DismissActionContainer Methods" Url="html/afff2044-f377-1cde-8971-84843c4d4aa9.htm">
           <HelpTOCNode Title="getDismissAction Method " Url="html/81360556-f4e8-1716-b3ae-e6dce5a34f1b.htm" />
           <HelpTOCNode Title="getDismissOverlay Method " Url="html/b5684490-6cd0-682f-fbe0-9c45190d8c3f.htm" />
-          <HelpTOCNode Id="a132e3cf-9857-49dd-8532-d25a1b7ede8c" Title="setDismissAction Method " Url="html/4fb9311b-586c-029c-d4d4-c7a346894b7a.htm">
+          <HelpTOCNode Id="789c24d6-909d-4820-979a-aced8579da37" Title="setDismissAction Method " Url="html/4fb9311b-586c-029c-d4d4-c7a346894b7a.htm">
             <HelpTOCNode Title="setDismissAction Method (MediaBuilder.WebviewDismissedAction)" Url="html/89384861-61cf-207b-0008-a4298b351ca2.htm" />
             <HelpTOCNode Title="setDismissAction Method (MediaBuilder.WebviewDismissedAction, MediaPlayerOverlayController)" Url="html/0363e004-fddf-5b8a-ea4d-4ee00d4bfea2.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="unsetDismissAction Method " Url="html/5b1ac3c2-45f2-41b4-38fe-e98b7bc3ed18.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="ab6bd4b5-fa19-44d2-abb4-7ec6291905a6" Title="MediaPlayerButtonOverlayController Class" Url="html/ef9983ea-c493-71ed-67d2-77e42734830b.htm">
+      <HelpTOCNode Id="696d680e-837b-4093-81d4-177e4b03a5cf" Title="MediaPlayerButtonOverlayController Class" Url="html/ef9983ea-c493-71ed-67d2-77e42734830b.htm">
         <HelpTOCNode Title="MediaPlayerButtonOverlayController Constructor " Url="html/bd83b31f-1157-8e00-42e3-c9204b9fcd6f.htm" />
-        <HelpTOCNode Id="de0ef83f-47b6-4ef2-bbe6-2bc38e54ea14" Title="MediaPlayerButtonOverlayController Fields" Url="html/08e0a8f4-d8e5-8fb9-c9eb-3200e4b81d86.htm">
+        <HelpTOCNode Id="cf4ccb15-e40f-43eb-bc70-753171c55114" Title="MediaPlayerButtonOverlayController Fields" Url="html/08e0a8f4-d8e5-8fb9-c9eb-3200e4b81d86.htm">
           <HelpTOCNode Title="ButtonOverlay Field" Url="html/f4ec4a3a-13ca-0db7-cb93-51d499a6ed28.htm" />
           <HelpTOCNode Title="ButtonOverlayClickthrough Field" Url="html/beaaa19f-8541-4032-0dc2-82ff217df202.htm" />
           <HelpTOCNode Title="ButtonOverlayClicktracking Field" Url="html/6a161809-3ecb-2af2-0ffb-edee242ea881.htm" />
           <HelpTOCNode Title="ButtonOverlayWebviewDismissAction Field" Url="html/33d73f81-b887-920a-7525-26f48a99b1b6.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e41c6b06-41f6-4f9d-a4de-f2ebb1387aaa" Title="MediaPlayerButtonOverlayController Methods" Url="html/4fead770-6c6a-35e0-f676-22227f1021ee.htm">
+        <HelpTOCNode Id="f81d06be-7f72-4881-bd7d-02e2d2cb446f" Title="MediaPlayerButtonOverlayController Methods" Url="html/4fead770-6c6a-35e0-f676-22227f1021ee.htm">
           <HelpTOCNode Title="addViewToContainer Method " Url="html/0ed0b573-7556-eaac-d3db-3b00a85bfa02.htm" />
           <HelpTOCNode Title="getAlpha Method " Url="html/d512aa3d-6154-13e3-230f-857b6683e34e.htm" />
           <HelpTOCNode Title="getView Method " Url="html/f7ae4d2c-3f45-1d11-a605-3ba38bcd93ca.htm" />
@@ -638,9 +638,9 @@
           <HelpTOCNode Title="type Method " Url="html/6bff80b5-c8e3-c471-966c-c03775c7e5d8.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="61140a9b-76f4-4def-beae-6aa50fd9920c" Title="MediaPlayerClosableOverlayController Class" Url="html/14b9a745-9e3e-553d-1eae-d121a79602ae.htm">
+      <HelpTOCNode Id="df2029ef-0ca1-4e22-92a1-ba281fb80b93" Title="MediaPlayerClosableOverlayController Class" Url="html/14b9a745-9e3e-553d-1eae-d121a79602ae.htm">
         <HelpTOCNode Title="MediaPlayerClosableOverlayController Constructor " Url="html/f8fdf66c-66e4-12ac-4d30-c2508c28f377.htm" />
-        <HelpTOCNode Id="7cbd6379-9f8a-4124-ad4d-21cdfd59a0fd" Title="MediaPlayerClosableOverlayController Fields" Url="html/be3c8db7-b135-3db1-3f08-1bb6250048fe.htm">
+        <HelpTOCNode Id="9c9f446d-1eee-4586-83cf-8a613f39f1f3" Title="MediaPlayerClosableOverlayController Fields" Url="html/be3c8db7-b135-3db1-3f08-1bb6250048fe.htm">
           <HelpTOCNode Title="CloseBackgroundColor Field" Url="html/b4bda615-ffee-83a2-061f-69b03b9e46d1.htm" />
           <HelpTOCNode Title="CloseFinalAlpha Field" Url="html/da00d0d6-ee5a-50c4-3aa8-41afd49eb443.htm" />
           <HelpTOCNode Title="CloseHidden Field" Url="html/3677d96b-a7d9-21ef-4cd5-e55845e8bdea.htm" />
@@ -655,7 +655,7 @@
           <HelpTOCNode Title="CloseTrackingURLs Field" Url="html/5df75d99-ed65-3b0b-134b-99506b0ac6d1.htm" />
           <HelpTOCNode Title="CloseXColor Field" Url="html/4d46b25e-04a8-7bf2-940a-4ebf2dce3274.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="6fe5f4b6-2454-491b-ac5a-4604f575a106" Title="MediaPlayerClosableOverlayController Methods" Url="html/09b5b351-270b-bee5-b498-6dfe59f06507.htm">
+        <HelpTOCNode Id="a381b058-43c3-4369-9318-12fe409ea685" Title="MediaPlayerClosableOverlayController Methods" Url="html/09b5b351-270b-bee5-b498-6dfe59f06507.htm">
           <HelpTOCNode Title="addCloseButtonWithParameters Method " Url="html/ae019152-5b1e-93c4-bbd8-62a0cda7a359.htm" />
           <HelpTOCNode Title="addViewToContainer Method " Url="html/62584b66-04b6-44f8-2292-d1e37a45f833.htm" />
           <HelpTOCNode Title="getAlpha Method " Url="html/603e8595-562b-e388-28d9-ccaf63c12b38.htm" />
@@ -666,9 +666,9 @@
           <HelpTOCNode Title="type Method " Url="html/19be7c3f-c3b7-0988-4d05-1d52133dc911.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="9ef18f7a-85cc-4829-a803-e0707434c470" Title="MediaPlayerControlsOverlayController Class" Url="html/7fd8b03a-f042-b3f2-bdf2-b0ae60ea5714.htm">
+      <HelpTOCNode Id="9950601b-beb7-49fa-b24b-7ea4d335b38a" Title="MediaPlayerControlsOverlayController Class" Url="html/7fd8b03a-f042-b3f2-bdf2-b0ae60ea5714.htm">
         <HelpTOCNode Title="MediaPlayerControlsOverlayController Constructor " Url="html/d0bc3f25-e354-d2be-3a18-079131e695f5.htm" />
-        <HelpTOCNode Id="69feceff-867a-4818-8810-8e468abf9c48" Title="MediaPlayerControlsOverlayController Fields" Url="html/bee063cf-74ea-26c8-7f9a-372f5d2d743a.htm">
+        <HelpTOCNode Id="1dc47dde-1bb6-445d-980f-af1e7f3c1c95" Title="MediaPlayerControlsOverlayController Fields" Url="html/bee063cf-74ea-26c8-7f9a-372f5d2d743a.htm">
           <HelpTOCNode Title="BackButtonControl Field" Url="html/87accead-8484-4eb8-da6d-89cb76a8bba4.htm" />
           <HelpTOCNode Title="ControlsAutohideDuration Field" Url="html/7ff77fcd-568b-72cf-e94e-37a837f2f083.htm" />
           <HelpTOCNode Title="ControlsBarAlpha Field" Url="html/d18a3b9a-32d5-d36f-fa3f-8c5993e4600d.htm" />
@@ -693,7 +693,7 @@
           <HelpTOCNode Title="TimeSliderControl Field" Url="html/a66b2657-79bc-9d16-49dc-4ab37bb7fbc9.htm" />
           <HelpTOCNode Title="TotalTimeControl Field" Url="html/6f1be9d1-041a-1285-1fac-807ed688d171.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="bb2f58fa-7353-49ad-85ba-c8f74563d9a3" Title="MediaPlayerControlsOverlayController Methods" Url="html/c865e3a6-3c05-8c16-7dfd-8291ee55c6a3.htm">
+        <HelpTOCNode Id="1b8c8ee0-d9db-4c94-8cf1-68b68fdc5437" Title="MediaPlayerControlsOverlayController Methods" Url="html/c865e3a6-3c05-8c16-7dfd-8291ee55c6a3.htm">
           <HelpTOCNode Title="addViewToContainer Method " Url="html/344bb907-dc31-25b8-e9f4-ce4b608098ca.htm" />
           <HelpTOCNode Title="getAlpha Method " Url="html/85e0964f-c943-0642-a18a-c3affe493357.htm" />
           <HelpTOCNode Title="getView Method " Url="html/994b2939-d2bc-4851-1a83-1e40dfacd16b.htm" />
@@ -708,9 +708,9 @@
           <HelpTOCNode Title="update Method " Url="html/c4727630-14d5-c535-ceb6-33ac2a325ba5.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="8f4dc2de-8dd7-412f-8c00-e5e53adb0ac1" Title="MediaPlayerHTMLOverlayController Class" Url="html/31947f2f-0a2c-5313-2bd9-d6b18ad359ba.htm">
+      <HelpTOCNode Id="a7e2319f-f70c-47f2-9646-5980d124c216" Title="MediaPlayerHTMLOverlayController Class" Url="html/31947f2f-0a2c-5313-2bd9-d6b18ad359ba.htm">
         <HelpTOCNode Title="MediaPlayerHTMLOverlayController Constructor " Url="html/58d8baca-9fac-5610-fcf9-f3e1ab6da002.htm" />
-        <HelpTOCNode Id="0161b400-7668-4c67-8ff6-59f80112f254" Title="MediaPlayerHTMLOverlayController Fields" Url="html/99d061f7-9607-afb0-7e81-f63134a68a80.htm">
+        <HelpTOCNode Id="1d3fe804-64e6-41b2-9a54-11e058ccbcf7" Title="MediaPlayerHTMLOverlayController Fields" Url="html/99d061f7-9607-afb0-7e81-f63134a68a80.htm">
           <HelpTOCNode Title="HTMLCodeContent Field" Url="html/2840d950-cd1e-ca38-4cf3-cca1ca21dc56.htm" />
           <HelpTOCNode Title="HTMLErrorURLs Field" Url="html/de0adc61-fcb6-7264-5e94-cce2197771af.htm" />
           <HelpTOCNode Title="HTMLHeight Field" Url="html/213eea1d-6772-7bd5-0286-cf845a8a7394.htm" />
@@ -721,7 +721,7 @@
           <HelpTOCNode Title="HTMLScriptSource Field" Url="html/afb61b84-7188-ed07-5386-5b475cdbc5c7.htm" />
           <HelpTOCNode Title="HTMLWidth Field" Url="html/e5bd5026-de8d-4e69-c6d6-7abb213e3391.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3c370987-1f55-4826-a2e4-d390a1743b73" Title="MediaPlayerHTMLOverlayController Methods" Url="html/0269ea7a-e447-1f29-a082-4669dd8e1c29.htm">
+        <HelpTOCNode Id="4cd1131d-8b4c-48b9-8037-ebf6fabae32d" Title="MediaPlayerHTMLOverlayController Methods" Url="html/0269ea7a-e447-1f29-a082-4669dd8e1c29.htm">
           <HelpTOCNode Title="addViewToContainer Method " Url="html/3c1399c7-4d4e-0366-3303-72d246df9b52.htm" />
           <HelpTOCNode Title="getAlpha Method " Url="html/cfb9c947-55e9-200c-8041-146200febc93.htm" />
           <HelpTOCNode Title="getView Method " Url="html/7c2e755b-9e75-4dd0-6252-5931376eb503.htm" />
@@ -731,9 +731,9 @@
           <HelpTOCNode Title="type Method " Url="html/f077710d-9dc3-2263-092d-cd5f2745d52e.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="d7a38d80-58b2-45c1-a21d-7df2207d623a" Title="MediaPlayerImageOverlayController Class" Url="html/888095ad-033f-a25f-dc4d-d701e6c2c088.htm">
+      <HelpTOCNode Id="5f34c902-15b7-4ca8-90f5-e2b2d1971d47" Title="MediaPlayerImageOverlayController Class" Url="html/888095ad-033f-a25f-dc4d-d701e6c2c088.htm">
         <HelpTOCNode Title="MediaPlayerImageOverlayController Constructor " Url="html/014aeaf7-ba97-338b-5ec1-5289c541c7eb.htm" />
-        <HelpTOCNode Id="46cf6a1c-e1ff-4a83-a80c-e701daad8692" Title="MediaPlayerImageOverlayController Fields" Url="html/a471f283-68af-d9fd-9146-a8ca2a0d8b03.htm">
+        <HelpTOCNode Id="de338e3a-6209-47c3-8275-94908a5ab949" Title="MediaPlayerImageOverlayController Fields" Url="html/a471f283-68af-d9fd-9146-a8ca2a0d8b03.htm">
           <HelpTOCNode Title="ImageOverlay Field" Url="html/797353aa-05e1-197b-656b-238d68c5b7e5.htm" />
           <HelpTOCNode Title="ImageOverlayBackgroundColor Field" Url="html/cf46e2c6-0ab1-a3ad-fb52-318031bc3897.htm" />
           <HelpTOCNode Title="ImageOverlayClickthrough Field" Url="html/20b19592-1495-4e06-eef6-ccb2ddbc920c.htm" />
@@ -744,7 +744,7 @@
           <HelpTOCNode Title="ImageOverlayViewtracking Field" Url="html/228f54c6-15b9-2073-0482-978a53ffe1db.htm" />
           <HelpTOCNode Title="ImageOverlayWebviewDismissAction Field" Url="html/53656505-e4f0-a91a-99ef-4d3923f444ea.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="6c236e05-33d7-4e40-9509-9f64556879a9" Title="MediaPlayerImageOverlayController Methods" Url="html/fd7910a8-ee55-e350-99e1-7bcda7e6405c.htm">
+        <HelpTOCNode Id="4768fd9a-cd49-4e1b-9965-f88fc9b011e9" Title="MediaPlayerImageOverlayController Methods" Url="html/fd7910a8-ee55-e350-99e1-7bcda7e6405c.htm">
           <HelpTOCNode Title="addViewToContainer Method " Url="html/bef95f3c-8aa2-e59c-a3a6-0d3479001a5c.htm" />
           <HelpTOCNode Title="getAlpha Method " Url="html/b9ef3085-5729-4613-9355-70933c879bc6.htm" />
           <HelpTOCNode Title="getImageAsync Method " Url="html/f954c23e-fcb5-ff98-fafd-84700d6f582c.htm" />
@@ -757,13 +757,13 @@
           <HelpTOCNode Title="type Method " Url="html/a52ffc92-d666-a276-729b-e20eec68a094.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="4ffbf26b-8439-4961-bc0e-8527e123e2ab" Title="MediaPlayerMidrollOverlayController Class" Url="html/82417d6c-d20f-e621-830e-8beed4f22192.htm">
+      <HelpTOCNode Id="8d5a8a0d-346e-45d1-af78-70f2071948e2" Title="MediaPlayerMidrollOverlayController Class" Url="html/82417d6c-d20f-e621-830e-8beed4f22192.htm">
         <HelpTOCNode Title="MediaPlayerMidrollOverlayController Constructor " Url="html/e162d3e0-cce3-83dc-bcdd-87febc1e96cd.htm" />
-        <HelpTOCNode Id="e0d6d0c4-1b7e-4d93-899b-710904664c98" Title="MediaPlayerMidrollOverlayController Fields" Url="html/32d1dbcb-9998-b1e4-f012-b8fab24c3b88.htm">
+        <HelpTOCNode Id="f33c700d-48a4-46aa-9c11-88db8ab65589" Title="MediaPlayerMidrollOverlayController Fields" Url="html/32d1dbcb-9998-b1e4-f012-b8fab24c3b88.htm">
           <HelpTOCNode Title="MidrollOverlay Field" Url="html/688cef91-9388-f967-cf59-36542b95f808.htm" />
           <HelpTOCNode Title="MidrollUnits Field" Url="html/4a8a8281-3f5b-d387-3dff-c7f79f5739f7.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="d1a757aa-5485-4ece-b022-28cfab7b7ff7" Title="MediaPlayerMidrollOverlayController Methods" Url="html/a2049cc3-6c42-ce85-b2fa-62338eba696e.htm">
+        <HelpTOCNode Id="e6da31cc-520f-4bc6-a91e-716685f1964f" Title="MediaPlayerMidrollOverlayController Methods" Url="html/a2049cc3-6c42-ce85-b2fa-62338eba696e.htm">
           <HelpTOCNode Title="addViewToContainer Method " Url="html/667ac8d8-5f9e-1d25-141a-3c73d9087406.htm" />
           <HelpTOCNode Title="getAlpha Method " Url="html/3c1c471e-1a8b-e2ae-7c02-9c79bbb00ac4.htm" />
           <HelpTOCNode Title="getView Method " Url="html/efc47f45-1bd1-0f86-44ff-8230948a8d67.htm" />
@@ -772,12 +772,12 @@
           <HelpTOCNode Title="type Method " Url="html/b92919ce-f020-4b3e-8ad0-eba9cfa9a56a.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b46f6834-426d-49dc-aac3-fdb492983cd2" Title="MediaPlayerOverlayController Class" Url="html/79b6f79c-6855-4a17-2efa-9e364334844f.htm">
+      <HelpTOCNode Id="c8a8fca1-7f14-4a1e-b8da-62fd0d82577a" Title="MediaPlayerOverlayController Class" Url="html/79b6f79c-6855-4a17-2efa-9e364334844f.htm">
         <HelpTOCNode Title="MediaPlayerOverlayController Constructor " Url="html/4372bb0a-5804-d8a0-0466-dd5b53bae4d2.htm" />
-        <HelpTOCNode Id="a97495da-8f38-4eee-811e-81b03fd3ee19" Title="MediaPlayerOverlayController Fields" Url="html/33b48f83-5ca8-b761-8522-64dbcd018273.htm">
+        <HelpTOCNode Id="b41a1bee-59b3-42f0-9a62-0ad21b94dd51" Title="MediaPlayerOverlayController Fields" Url="html/33b48f83-5ca8-b761-8522-64dbcd018273.htm">
           <HelpTOCNode Title="overlay Field" Url="html/65e946c2-06d7-89ee-1933-782ae549e2ce.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="061405de-9496-46fb-815f-aeed14231da0" Title="MediaPlayerOverlayController Methods" Url="html/ecc1ab5e-8e68-5cb9-6471-8aa482a29349.htm">
+        <HelpTOCNode Id="a8f73e11-3412-45d9-9bb8-29402eb44b58" Title="MediaPlayerOverlayController Methods" Url="html/ecc1ab5e-8e68-5cb9-6471-8aa482a29349.htm">
           <HelpTOCNode Title="addViewToContainer Method " Url="html/9f783c61-c3ee-fe35-da91-cbc0b970472a.htm" />
           <HelpTOCNode Title="getAlpha Method " Url="html/155c0d3a-b6d9-2a55-e54a-5d701b3798a6.htm" />
           <HelpTOCNode Title="getView Method " Url="html/eb6f4633-497e-2ba0-4ce1-bd5460acc1fe.htm" />
@@ -786,9 +786,9 @@
           <HelpTOCNode Title="type Method " Url="html/ebe67551-a246-a33a-e09b-0c2468b8c446.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="daecf7bd-0a95-4cec-b207-65ec8f55cfdc" Title="MediaPlayerSkipOverlayController Class" Url="html/c98e81ad-57cc-e0db-8ba0-d92f7408d22b.htm">
+      <HelpTOCNode Id="69b877a8-08e4-42f7-b846-392cdc2bbaca" Title="MediaPlayerSkipOverlayController Class" Url="html/c98e81ad-57cc-e0db-8ba0-d92f7408d22b.htm">
         <HelpTOCNode Title="MediaPlayerSkipOverlayController Constructor " Url="html/a3c0c424-3633-116e-655c-a684d05a46f5.htm" />
-        <HelpTOCNode Id="f89cafc2-b695-4d9b-9461-9becbfa0ed24" Title="MediaPlayerSkipOverlayController Fields" Url="html/74c2e72d-9f75-60e5-3bac-5145e231c787.htm">
+        <HelpTOCNode Id="4c2e2e43-3e0e-4a7a-bbdc-fe64a390449c" Title="MediaPlayerSkipOverlayController Fields" Url="html/74c2e72d-9f75-60e5-3bac-5145e231c787.htm">
           <HelpTOCNode Title="SkipOverlay Field" Url="html/bc41b67f-33f4-08a2-b292-8d23c2666369.htm" />
           <HelpTOCNode Title="SkipOverlayBorderColor Field" Url="html/4dc67b9a-4754-be88-c774-38e4d9fdf735.htm" />
           <HelpTOCNode Title="SkipOverlayBorderRadius Field" Url="html/f3498494-bdc6-7750-2082-407ea7dc38bf.htm" />
@@ -802,7 +802,7 @@
           <HelpTOCNode Title="SkipOverlayString Field" Url="html/e2830644-d490-6b8d-411e-d9ffdfdfdaf6.htm" />
           <HelpTOCNode Title="SkipOverlayStringColor Field" Url="html/f4ba618d-e873-f9b9-95ec-33652027e924.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="aa572835-f7c0-4c18-96ea-2a2060bd0189" Title="MediaPlayerSkipOverlayController Methods" Url="html/f6435ad3-093d-0d98-98a0-a02533483eeb.htm">
+        <HelpTOCNode Id="1d307f12-2baf-4a61-9330-90a6e75ca28a" Title="MediaPlayerSkipOverlayController Methods" Url="html/f6435ad3-093d-0d98-98a0-a02533483eeb.htm">
           <HelpTOCNode Title="addViewToContainer Method " Url="html/ef39bcb8-9de3-3bb9-0475-1ec98cebd22f.htm" />
           <HelpTOCNode Title="getAlpha Method " Url="html/0960c5a2-7ea2-364e-d024-32797d480663.htm" />
           <HelpTOCNode Title="getView Method " Url="html/34434c76-3234-ce49-b555-5fa1d0721a91.htm" />
@@ -815,16 +815,16 @@
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="MediaPlayerSkipOverlayController.SkipOverlayProgressPosition Enumeration" Url="html/1b395057-ee5c-e4f3-a107-d14c0b5dfb62.htm" />
-      <HelpTOCNode Id="2445f1c1-4132-4574-9a6e-3a06417ef21b" Title="MediaPlayerTextOverlayController Class" Url="html/b7fd5d77-2610-5860-2644-4a6861565131.htm">
+      <HelpTOCNode Id="55110e88-5d91-4d66-803e-acc5ca00e13f" Title="MediaPlayerTextOverlayController Class" Url="html/b7fd5d77-2610-5860-2644-4a6861565131.htm">
         <HelpTOCNode Title="MediaPlayerTextOverlayController Constructor " Url="html/d8cd4e97-d149-6d01-1a01-b3f407b33717.htm" />
-        <HelpTOCNode Id="d519ee6a-43d9-43a0-8bb5-1796fe6322f7" Title="MediaPlayerTextOverlayController Fields" Url="html/857b9517-b56e-ff06-4376-1f4f0e2a9824.htm">
+        <HelpTOCNode Id="91ea8ae2-7b23-4cb7-8a97-ac2aca70d317" Title="MediaPlayerTextOverlayController Fields" Url="html/857b9517-b56e-ff06-4376-1f4f0e2a9824.htm">
           <HelpTOCNode Title="TextOverlay Field" Url="html/3f55a56a-0b3c-8dac-5872-7a7ec7f8b14d.htm" />
           <HelpTOCNode Title="TextOverlayString Field" Url="html/90a94222-f47f-73a5-a76b-9ef1c07722e0.htm" />
           <HelpTOCNode Title="TextOverlayStringColor Field" Url="html/3e953a3c-9d91-1086-1eec-cdafea9a125e.htm" />
           <HelpTOCNode Title="TextOverlayStringFont Field" Url="html/f09768e6-e252-8c74-d1e8-a8cafb768aa0.htm" />
           <HelpTOCNode Title="TextOverlayStringSize Field" Url="html/ee1e9fc5-9d12-5018-b6f1-9a901c627441.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="a43cc629-24e5-476a-b87f-2b5d3c690d17" Title="MediaPlayerTextOverlayController Methods" Url="html/97a21e62-9e38-801f-f35d-9507af3fbf38.htm">
+        <HelpTOCNode Id="f0c740a3-66f9-4f77-94c4-6afef3229152" Title="MediaPlayerTextOverlayController Methods" Url="html/97a21e62-9e38-801f-f35d-9507af3fbf38.htm">
           <HelpTOCNode Title="addViewToContainer Method " Url="html/42c96ba8-78ec-45f0-15e2-35fa6e84e565.htm" />
           <HelpTOCNode Title="getAlpha Method " Url="html/f2fee18a-b17d-c4eb-5653-5d8beb021175.htm" />
           <HelpTOCNode Title="getView Method " Url="html/00b58fcd-7cff-d313-cf04-7c7ef6ab719f.htm" />
@@ -835,72 +835,72 @@
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="36dd3e74-6052-4ab4-aacd-4536e2dcb679" Title="Veeplay.utillities Namespaces" Url="html/1f1d9846-b2d3-d034-37d4-a73c5f81d997.htm">
-      <HelpTOCNode Id="ab4cbb15-6c40-4644-a6dd-de082875b2a0" Title="Veeplay.utillities" Url="html/813197e9-0c80-5c06-effc-abaa36e162b8.htm">
-        <HelpTOCNode Id="5876ad6d-4f36-4356-81a3-ab9f5bbaf350" Title="CompressionHandler Class" Url="html/cb5715ab-948d-46e3-83dd-95b55fd189a8.htm">
+    <HelpTOCNode Id="a47248e3-d041-4d1f-ba97-9d8a645dc9f4" Title="Veeplay.utillities Namespaces" Url="html/1f1d9846-b2d3-d034-37d4-a73c5f81d997.htm">
+      <HelpTOCNode Id="27b9fccc-c816-427b-a47c-4640e9b3593f" Title="Veeplay.utillities" Url="html/813197e9-0c80-5c06-effc-abaa36e162b8.htm">
+        <HelpTOCNode Id="6beed144-5b40-4480-aeff-acd8d6704a53" Title="CompressionHandler Class" Url="html/cb5715ab-948d-46e3-83dd-95b55fd189a8.htm">
           <HelpTOCNode Title="CompressionHandler Constructor " Url="html/cefe1089-f05a-621c-a448-a7d92d728c39.htm" />
-          <HelpTOCNode Id="e6618c48-8dc2-41ac-bb06-668787d2492a" Title="CompressionHandler Methods" Url="html/b7339511-c7a9-4ced-f238-5383581655a6.htm">
+          <HelpTOCNode Id="074beae4-c15e-4ec5-952c-49cab37eee3d" Title="CompressionHandler Methods" Url="html/b7339511-c7a9-4ced-f238-5383581655a6.htm">
             <HelpTOCNode Title="Decompress Method " Url="html/5ed63fe1-6f58-d6b2-8bc0-7b0b73318b1e.htm" />
             <HelpTOCNode Title="GetBytes Method " Url="html/aabecf4e-f7a1-fe02-63b8-4f7ee60e0587.htm" />
             <HelpTOCNode Title="GetString Method " Url="html/a2fc10a9-a00f-8c36-c3be-cb0928073993.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="4056d219-a276-4e76-bc21-31ba8a7ea433" Title="Constants Class" Url="html/a159a166-efb0-ff81-4e3c-c76c928b1ab6.htm">
+        <HelpTOCNode Id="d24128e3-229c-44db-9c16-d6543a886f98" Title="Constants Class" Url="html/a159a166-efb0-ff81-4e3c-c76c928b1ab6.htm">
           <HelpTOCNode Title="Constants Constructor " Url="html/6dcc38fc-acda-0c91-527d-fa7b94c8ada5.htm" />
-          <HelpTOCNode Id="d6b5b1d4-df99-4c27-9d9e-7682e943f34b" Title="Constants Fields" Url="html/1ffdba02-8399-7cf7-2e16-16b5f59bf0f6.htm">
+          <HelpTOCNode Id="06eebba9-80a6-4e46-a00e-466c734388b0" Title="Constants Fields" Url="html/1ffdba02-8399-7cf7-2e16-16b5f59bf0f6.htm">
             <HelpTOCNode Title="statusBarDefaultState Field" Url="html/e8de14ac-1cca-1d8b-2fb9-f2f27cd0258c.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="Constants Methods" Url="html/57f0a7fc-b7ca-ad0e-842e-f31a6dbd07f7.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="2729e8eb-9119-4b8a-94e2-578d9eceebea" Title="IMediaPlayerActionDelegate Interface" Url="html/f6f27307-a5ce-cde7-f5bd-2522a60abd8f.htm">
-          <HelpTOCNode Id="43ab1fe7-1795-4d83-8e1a-fee54971253b" Title="IMediaPlayerActionDelegate Methods" Url="html/5d0259af-875c-d6bb-0914-3de686878240.htm">
+        <HelpTOCNode Id="64df55cd-305c-4594-9bb5-9ad4f33abddf" Title="IMediaPlayerActionDelegate Interface" Url="html/f6f27307-a5ce-cde7-f5bd-2522a60abd8f.htm">
+          <HelpTOCNode Id="ebfca437-1ff8-41b8-be45-be9afd6ad470" Title="IMediaPlayerActionDelegate Methods" Url="html/5d0259af-875c-d6bb-0914-3de686878240.htm">
             <HelpTOCNode Title="canRespondTo Method " Url="html/d48b8fd0-7f20-77a9-becf-011a3f99248a.htm" />
             <HelpTOCNode Title="respondTo Method " Url="html/c14aebc5-ccea-e479-8254-a3a467899ece.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="50b76470-3bac-4e2b-aa0d-4a98fa9e8765" Title="IMediaPlayerTrackingEventHandler Interface" Url="html/5b2b229a-c875-fa4b-e060-6ef43da0d8d2.htm">
-          <HelpTOCNode Id="505f3d64-79bb-4489-98c9-95d97c239b0c" Title="IMediaPlayerTrackingEventHandler Methods" Url="html/aba25e5b-1530-8bb2-498a-aaa27a4cb25d.htm">
+        <HelpTOCNode Id="e399a6a9-5e36-4854-b838-03cf02002e93" Title="IMediaPlayerTrackingEventHandler Interface" Url="html/5b2b229a-c875-fa4b-e060-6ef43da0d8d2.htm">
+          <HelpTOCNode Id="25a4fc8c-be74-4b2c-95e1-059bd5251691" Title="IMediaPlayerTrackingEventHandler Methods" Url="html/aba25e5b-1530-8bb2-498a-aaa27a4cb25d.htm">
             <HelpTOCNode Title="onTrackingEventReceived Method " Url="html/afc3fb80-2d2a-1bac-4aea-606c09d344d8.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="6e0571e3-d450-4035-9b0c-e3a538682213" Title="LivestreamInternalTimer Class" Url="html/9885725e-e201-68a8-04e8-ade39848ae47.htm">
-          <HelpTOCNode Id="f7b7094e-0026-49a6-a27e-5ded6bc73d83" Title="LivestreamInternalTimer Fields" Url="html/d3a2fe4b-7261-c937-056e-11962992814f.htm">
+        <HelpTOCNode Id="e5b41f3e-9248-4ff7-aefe-b4cda147524e" Title="LivestreamInternalTimer Class" Url="html/9885725e-e201-68a8-04e8-ade39848ae47.htm">
+          <HelpTOCNode Id="061f17c1-25b1-42bd-8e1e-4f0e55e91566" Title="LivestreamInternalTimer Fields" Url="html/d3a2fe4b-7261-c937-056e-11962992814f.htm">
             <HelpTOCNode Title="INSTANCE Field" Url="html/7b918f7e-d4a1-d772-a598-4c900aaf3d0e.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="bdfd3a5c-5a30-410f-88aa-f58c59669873" Title="LivestreamInternalTimer Methods" Url="html/016f696d-ae48-0bbe-af1e-a95ff7ff17c7.htm">
+          <HelpTOCNode Id="1fa07645-04e2-4046-9eb8-9e98c83c2b7a" Title="LivestreamInternalTimer Methods" Url="html/016f696d-ae48-0bbe-af1e-a95ff7ff17c7.htm">
             <HelpTOCNode Title="getCurrentTime Method " Url="html/8fcb8124-4ffa-11af-45a2-f0ecda0f0668.htm" />
             <HelpTOCNode Title="reset Method " Url="html/6a86ff34-2961-7c6a-b769-7c718355d7ff.htm" />
-            <HelpTOCNode Id="b79864f0-f142-43f7-aa5b-183dcfda4305" Title="start Method " Url="html/5fab764b-40b9-e08d-b484-889fdc479d3b.htm">
+            <HelpTOCNode Id="98f39fd7-f88a-491b-9f8b-bfe5bb36df90" Title="start Method " Url="html/5fab764b-40b9-e08d-b484-889fdc479d3b.htm">
               <HelpTOCNode Title="start Method " Url="html/2da9b1a4-d795-5a9b-1358-f84a5211b357.htm" />
               <HelpTOCNode Title="start Method (Int32)" Url="html/0cebbfb4-7d43-8c96-5652-50d743c792ce.htm" />
             </HelpTOCNode>
             <HelpTOCNode Title="stop Method " Url="html/162c78ae-fd37-f6ef-b312-0c04f37ed8d6.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="fd95ed00-22dc-41cf-8975-582c2a7d1c01" Title="NetworkHandler Class" Url="html/731b1943-bc38-846a-8381-11a8df775330.htm">
-          <HelpTOCNode Id="68d24131-eec5-49e7-8d16-a4c7b5886c49" Title="NetworkHandler Constructor " Url="html/668437a7-a536-ff47-40b6-fbbee8e3a645.htm">
+        <HelpTOCNode Id="94a81c93-bf05-4b8c-8024-353a87f7aa68" Title="NetworkHandler Class" Url="html/731b1943-bc38-846a-8381-11a8df775330.htm">
+          <HelpTOCNode Id="5fc17ef8-d6e0-469d-a3f8-9a0fe870aeda" Title="NetworkHandler Constructor " Url="html/668437a7-a536-ff47-40b6-fbbee8e3a645.htm">
             <HelpTOCNode Title="NetworkHandler Constructor " Url="html/c573f336-b270-ba55-ae1e-dcf4d42266dd.htm" />
             <HelpTOCNode Title="NetworkHandler Constructor (String)" Url="html/5868ba1e-c433-0ba2-cba4-bca59437fead.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="06931bbd-aa10-4aad-93c1-5929368c6a4a" Title="NetworkHandler Methods" Url="html/3abe9695-ebbb-ef4a-bc4f-db4ba61458a2.htm">
+          <HelpTOCNode Id="30f48130-f5a4-4878-9f56-e3fbe456589a" Title="NetworkHandler Methods" Url="html/3abe9695-ebbb-ef4a-bc4f-db4ba61458a2.htm">
             <HelpTOCNode Title="getBitmapImageFromURL Method " Url="html/f8053e84-75f8-57f9-3ec7-8a940c9767c0.htm" />
-            <HelpTOCNode Id="ef0c186e-66a2-4b6c-8aa0-15fb2c0d7df9" Title="getBitmapImageFromURLAsync Method " Url="html/aa64fd72-a343-063d-7a8f-f06f8051ac1a.htm">
+            <HelpTOCNode Id="8c56ff69-fae9-46be-b950-02a807a35f38" Title="getBitmapImageFromURLAsync Method " Url="html/aa64fd72-a343-063d-7a8f-f06f8051ac1a.htm">
               <HelpTOCNode Title="getBitmapImageFromURLAsync Method (String)" Url="html/f0e27174-65db-9c76-2b88-db3057e84149.htm" />
               <HelpTOCNode Title="getBitmapImageFromURLAsync Method (Uri)" Url="html/292a1b30-5005-bfe3-381b-6fe1577898a0.htm" />
             </HelpTOCNode>
-            <HelpTOCNode Id="299be0ae-8c89-40c7-a388-0c3b6a90320e" Title="getDataAndDecompress Method " Url="html/23424425-7f2d-5427-bf18-0f1affd7156c.htm">
+            <HelpTOCNode Id="c02fce57-6d01-43d0-826e-6863927aeced" Title="getDataAndDecompress Method " Url="html/23424425-7f2d-5427-bf18-0f1affd7156c.htm">
               <HelpTOCNode Title="getDataAndDecompress Method (String)" Url="html/df04eb0d-68b1-50a6-aafc-238fd61bad11.htm" />
               <HelpTOCNode Title="getDataAndDecompress Method (Uri)" Url="html/813bb011-b162-f1ac-01ea-407e25a4a9c8.htm" />
             </HelpTOCNode>
-            <HelpTOCNode Id="edc5db1c-e1b9-4bcd-afce-a8604749fe6a" Title="getDataAndDecompressAsync Method " Url="html/1ed03c2c-6281-0fd6-74b9-f44ec0e35878.htm">
+            <HelpTOCNode Id="ed74cf60-c909-4648-98f7-c69813da32c2" Title="getDataAndDecompressAsync Method " Url="html/1ed03c2c-6281-0fd6-74b9-f44ec0e35878.htm">
               <HelpTOCNode Title="getDataAndDecompressAsync Method (String)" Url="html/f995d991-a55e-483d-1d9b-cce20b5a637b.htm" />
               <HelpTOCNode Title="getDataAndDecompressAsync Method (Uri)" Url="html/b77e6bc0-4df2-acf3-1e5f-0383034a38be.htm" />
             </HelpTOCNode>
-            <HelpTOCNode Id="4f0a6ee7-1e9e-4b3b-8a3c-cbbc029145dc" Title="getDataFromURL Method " Url="html/5c7ce100-8e9e-99a6-c6ae-4fba42902f32.htm">
+            <HelpTOCNode Id="b078448d-b510-433b-a309-ecca1600af02" Title="getDataFromURL Method " Url="html/5c7ce100-8e9e-99a6-c6ae-4fba42902f32.htm">
               <HelpTOCNode Title="getDataFromURL Method (String)" Url="html/c3c651b2-9e66-cbf4-d094-e1c83890f694.htm" />
               <HelpTOCNode Title="getDataFromURL Method (Uri)" Url="html/4979bd29-cd3b-34d7-4e67-827da4bd6e84.htm" />
             </HelpTOCNode>
-            <HelpTOCNode Id="672ee0ed-36d8-4a4e-8291-902f72998580" Title="getDataFromURLAsync Method " Url="html/2f7262ea-8895-4242-6584-4c3db720ec15.htm">
+            <HelpTOCNode Id="8be6e4fd-62b0-4682-bc06-e13b67eec72b" Title="getDataFromURLAsync Method " Url="html/2f7262ea-8895-4242-6584-4c3db720ec15.htm">
               <HelpTOCNode Title="getDataFromURLAsync Method (String)" Url="html/07e1209a-5510-4d2f-b672-d2c448e9b7e2.htm" />
               <HelpTOCNode Title="getDataFromURLAsync Method (Uri)" Url="html/d5311a40-8a35-adc8-442a-b98e17182ab8.htm" />
             </HelpTOCNode>
@@ -913,37 +913,37 @@
             <HelpTOCNode Title="setUserAgent Method " Url="html/253826d4-3fca-d23e-ecec-3bee83a87e60.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="8ddee221-be26-4308-852b-d46e9cc4a158" Title="RFEventDictionary Class" Url="html/3d178ccc-ddb9-02bc-a61b-8a922702eb83.htm">
+        <HelpTOCNode Id="1f9dbf7d-cd5b-4d49-81d0-e4964c66fcc4" Title="RFEventDictionary Class" Url="html/3d178ccc-ddb9-02bc-a61b-8a922702eb83.htm">
           <HelpTOCNode Title="RFEventDictionary Constructor " Url="html/c3cd3482-3af1-5728-bc3c-b75412cd4705.htm" />
           <HelpTOCNode Title="RFEventDictionary Methods" Url="html/0c969171-7056-a169-a047-c3bc40682377.htm" />
-          <HelpTOCNode Id="a2c86afb-0691-45a3-89e0-6e0a435ca122" Title="RFEventDictionary Properties" Url="html/e90d965c-d403-325f-9229-a01b0062198e.htm">
+          <HelpTOCNode Id="a75b1b6a-ccc3-4ddd-ba04-4a25e84d916f" Title="RFEventDictionary Properties" Url="html/e90d965c-d403-325f-9229-a01b0062198e.htm">
             <HelpTOCNode Title="Dictionary Property " Url="html/3eb39004-918b-8617-a6a3-f235c2d45615.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="00b28d24-6ccc-4aaf-b787-1046d50b104e" Title="RFEventManager Class" Url="html/db7e6d2b-cc15-8f65-170b-2af79a9a3274.htm">
-          <HelpTOCNode Id="910cf79d-fad5-4628-9689-eb558e2e77e2" Title="RFEventManager Methods" Url="html/4a484200-7b9b-3d5b-20cd-a3086237a508.htm">
+        <HelpTOCNode Id="041c3280-6da4-45a8-aa03-41f7a17d67dd" Title="RFEventManager Class" Url="html/db7e6d2b-cc15-8f65-170b-2af79a9a3274.htm">
+          <HelpTOCNode Id="79f020aa-1d7c-4ffe-a280-390d309b2324" Title="RFEventManager Methods" Url="html/4a484200-7b9b-3d5b-20cd-a3086237a508.htm">
             <HelpTOCNode Title="AddHandler Method " Url="html/7cf0d097-96b0-77dd-ec19-8f5209bf4a15.htm" />
             <HelpTOCNode Title="AddHandlerFromType Method " Url="html/a8c4e8c4-3112-8f38-92e1-42cf48f853bb.htm" />
             <HelpTOCNode Title="RemoveHandler Method " Url="html/3512d416-ea9c-ca37-34fc-1c0604952897.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="589fba46-99d0-41a6-8858-f9462b03de9d" Title="RFEventManager(T) Class" Url="html/8fe74ac8-86e2-1d71-eba0-4ca4c66584fd.htm">
-          <HelpTOCNode Id="4e27432a-114f-429d-97ea-dbe738ed23b1" Title="RFEventManager(T) Methods" Url="html/ce1780a6-de46-840f-c44e-5b689dfab2e8.htm">
+        <HelpTOCNode Id="9e6bb210-e714-41df-9224-ae814b9e48fb" Title="RFEventManager(T) Class" Url="html/8fe74ac8-86e2-1d71-eba0-4ca4c66584fd.htm">
+          <HelpTOCNode Id="eb6f0880-6a9a-4387-963b-77d64744d12d" Title="RFEventManager(T) Methods" Url="html/ce1780a6-de46-840f-c44e-5b689dfab2e8.htm">
             <HelpTOCNode Title="AddHandler Method " Url="html/faf17887-fae0-29a4-987d-e421d87cba75.htm" />
             <HelpTOCNode Title="AddHandlerFromType Method " Url="html/8c8d7a15-6388-567b-2151-c0acf7c2078b.htm" />
             <HelpTOCNode Title="RemoveHandler Method " Url="html/280c242e-3c96-abf7-1652-bdaebd3bc10c.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="62005437-a019-4fd8-993c-e46e4f067c19" Title="VideoThumbToolTipConverter Class" Url="html/0f0efa0f-2337-d26e-4a54-853eaa240449.htm">
+        <HelpTOCNode Id="b3b29f81-ba18-419c-b5f9-a9e563437d2b" Title="VideoThumbToolTipConverter Class" Url="html/0f0efa0f-2337-d26e-4a54-853eaa240449.htm">
           <HelpTOCNode Title="VideoThumbToolTipConverter Constructor " Url="html/d37d79d1-2c34-8487-c6c9-d4270bfc4a1d.htm" />
-          <HelpTOCNode Id="37a48089-1652-4940-93fe-7b4b757a0544" Title="VideoThumbToolTipConverter Methods" Url="html/87004bbe-03a0-a5b1-794d-44057f1bc124.htm">
+          <HelpTOCNode Id="036cf495-53c4-4a77-a215-979817880469" Title="VideoThumbToolTipConverter Methods" Url="html/87004bbe-03a0-a5b1-794d-44057f1bc124.htm">
             <HelpTOCNode Title="Convert Method " Url="html/9a2998ec-fec5-3424-433b-cdac819daa4b.htm" />
             <HelpTOCNode Title="ConvertBack Method " Url="html/312b592d-9fa4-5cd1-0322-9e21231a28d7.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="f23888d6-a0b2-46f6-ac33-088cd5318ed4" Title="VPUtilities Class" Url="html/4294ab1c-d89a-c403-a400-412500076476.htm">
+        <HelpTOCNode Id="c1766e16-2faf-47dd-a388-659d5b3c744d" Title="VPUtilities Class" Url="html/4294ab1c-d89a-c403-a400-412500076476.htm">
           <HelpTOCNode Title="VPUtilities Constructor " Url="html/aac9db9f-7166-10d0-d83e-e0c3c62bc7cd.htm" />
-          <HelpTOCNode Id="4a0a855e-6a52-4b45-a26b-5b8b70a73392" Title="VPUtilities Methods" Url="html/bd2bcfd6-a980-e479-a84a-f170d45fe672.htm">
+          <HelpTOCNode Id="ea6af289-ff54-4ac3-8099-c31d2fe704dd" Title="VPUtilities Methods" Url="html/bd2bcfd6-a980-e479-a84a-f170d45fe672.htm">
             <HelpTOCNode Title="currentOrientationIsLandscape Method " Url="html/d44efa08-fb81-be45-f04f-e089572bd976.htm" />
             <HelpTOCNode Title="DeviceIsPhone Method " Url="html/4f3d4714-dd23-65d3-0375-53b8e5476c7e.htm" />
             <HelpTOCNode Title="DictionaryValuesToURLs Method " Url="html/db12215d-6cc4-a08c-1758-0e2d0d432a25.htm" />
@@ -962,10 +962,10 @@
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b9d0ba59-87e9-4987-a4da-31246f9341fb" Title="Veeplay.utillities.controls" Url="html/a2d5120b-d435-4364-c06e-c0daea508b2e.htm">
-        <HelpTOCNode Id="631f0fa8-a84c-4527-976d-350c64502991" Title="MediaControl Class" Url="html/0843f572-eb03-cea9-96e3-e3f2d2d47618.htm">
+      <HelpTOCNode Id="74af06bb-c27c-4499-8459-429600d4c262" Title="Veeplay.utillities.controls" Url="html/a2d5120b-d435-4364-c06e-c0daea508b2e.htm">
+        <HelpTOCNode Id="6acabc0b-995b-40c2-802d-e505e65a4f05" Title="MediaControl Class" Url="html/0843f572-eb03-cea9-96e3-e3f2d2d47618.htm">
           <HelpTOCNode Title="MediaControl Constructor " Url="html/7f3c6b19-5daa-312f-bf0a-52ce49728ebb.htm" />
-          <HelpTOCNode Id="135ea6b8-988a-46dc-9323-888b8980cd2d" Title="MediaControl Methods" Url="html/7b1af11a-ab11-8423-8a74-bc3929a046e7.htm">
+          <HelpTOCNode Id="95a31032-d1d8-4477-8e6c-bdd730cea4d7" Title="MediaControl Methods" Url="html/7b1af11a-ab11-8423-8a74-bc3929a046e7.htm">
             <HelpTOCNode Title="Connect Method " Url="html/8dbfc964-7375-0865-f64b-7957ee61d1db.htm" />
             <HelpTOCNode Title="getButtons Method " Url="html/faa17611-615c-f31a-3fd8-1103a965127f.htm" />
             <HelpTOCNode Title="getRootPanel Method " Url="html/19359185-7608-01c3-3d95-895c0652dd11.htm" />
@@ -976,15 +976,15 @@
           <HelpTOCNode Title="MediaControl Properties" Url="html/8bf735c5-5f17-1b9e-76ca-ff4c7fb14e86.htm" />
           <HelpTOCNode Title="MediaControl Events" Url="html/c794c762-42fa-1d2b-412c-8bd214eda698.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b18e9b4e-d5b5-4cae-9949-92323e2fcb7e" Title="ProgressWheel Class" Url="html/270b4c0a-136d-066d-f9d0-9eb98ab42fcb.htm">
+        <HelpTOCNode Id="a07cb2a9-7722-4ff7-9f70-b46f355619a3" Title="ProgressWheel Class" Url="html/270b4c0a-136d-066d-f9d0-9eb98ab42fcb.htm">
           <HelpTOCNode Title="ProgressWheel Constructor " Url="html/8c722602-fd3c-127b-880b-7ad923a20ede.htm" />
-          <HelpTOCNode Id="a4520767-bc35-42ba-95f2-d90e964d8390" Title="ProgressWheel Fields" Url="html/b31fa6b8-50ad-c126-4211-e285b1f5931a.htm">
+          <HelpTOCNode Id="d7233947-c3d2-4cbf-b056-494227c023ec" Title="ProgressWheel Fields" Url="html/b31fa6b8-50ad-c126-4211-e285b1f5931a.htm">
             <HelpTOCNode Title="isSpining Field" Url="html/7764ade7-492b-29d2-2dc0-4b0833e15951.htm" />
             <HelpTOCNode Title="pause Field" Url="html/2430bcc2-0388-a3a3-7d3f-fa3b6bf53010.htm" />
             <HelpTOCNode Title="Resolution Field" Url="html/8f40c1e6-3211-e2c5-a11e-df10db502dc2.htm" />
             <HelpTOCNode Title="Value Field" Url="html/6d5b4894-8235-ebdb-7674-5df7a7ec37af.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="5930a844-2106-4a40-81ab-3667f8effd76" Title="ProgressWheel Methods" Url="html/8d9c7c9b-d1d4-c0ca-61a9-3e8e6eeec67a.htm">
+          <HelpTOCNode Id="44414c60-1a52-4ee6-93d9-48131f1faaa3" Title="ProgressWheel Methods" Url="html/8d9c7c9b-d1d4-c0ca-61a9-3e8e6eeec67a.htm">
             <HelpTOCNode Title="Connect Method " Url="html/c0791d5e-3688-fd3f-28f8-d04ffb2b2592.htm" />
             <HelpTOCNode Title="InitializeComponent Method " Url="html/ef919106-7076-a7a6-2162-627394388173.htm" />
             <HelpTOCNode Title="setBackgroundColor Method " Url="html/a7cf8358-9316-44de-a907-e38f75271347.htm" />
@@ -998,15 +998,15 @@
             <HelpTOCNode Title="setTextColor Method " Url="html/b684d2e3-cc2c-6773-ea80-a83a2cbb0b5f.htm" />
             <HelpTOCNode Title="spinOnce Method " Url="html/cd4fc4fb-4eda-4ca2-6374-f043a5cb2181.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="c6eb8760-ac89-4048-a009-60a3e2499360" Title="ProgressWheel Properties" Url="html/e654df51-5b78-8795-e129-75d4a812ab98.htm">
+          <HelpTOCNode Id="9fffca94-c96a-4dab-b259-420e903a4ba1" Title="ProgressWheel Properties" Url="html/e654df51-5b78-8795-e129-75d4a812ab98.htm">
             <HelpTOCNode Title="Height Property " Url="html/4e58e2a0-3582-82cd-d41f-91e25a985b2e.htm" />
             <HelpTOCNode Title="Width Property " Url="html/bc91cf47-479e-fe6c-71e0-9202f5d53588.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="ProgressWheel Events" Url="html/e8f1da43-50c5-e5a5-c2c1-2cdaf532525f.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="047c3dc3-12e7-44ca-8f29-7a609f6b5595" Title="WebViewControl Class" Url="html/88cb6126-0f79-1d7c-82b3-6ef59cd85380.htm">
+        <HelpTOCNode Id="444110ee-c869-4c92-adf0-60264aa90a59" Title="WebViewControl Class" Url="html/88cb6126-0f79-1d7c-82b3-6ef59cd85380.htm">
           <HelpTOCNode Title="WebViewControl Constructor " Url="html/186af063-a916-d643-9d85-89e9e02f24f0.htm" />
-          <HelpTOCNode Id="637d4eba-ee96-4745-864a-0924e3302450" Title="WebViewControl Methods" Url="html/0fd67c2d-5834-bc12-c315-3a2fc2dbe671.htm">
+          <HelpTOCNode Id="033c4435-3a60-463c-a303-6a8129e21ae2" Title="WebViewControl Methods" Url="html/0fd67c2d-5834-bc12-c315-3a2fc2dbe671.htm">
             <HelpTOCNode Title="Connect Method " Url="html/5bafc9a2-9f1e-22d6-5938-d9e7a47e05e3.htm" />
             <HelpTOCNode Title="getButtons Method " Url="html/194509ed-cbce-9aa3-0fd8-adbe8a44f815.htm" />
             <HelpTOCNode Title="InitializeComponent Method " Url="html/981762a1-7083-be6c-459c-cc59b1b5c2d2.htm" />
@@ -1017,57 +1017,57 @@
           <HelpTOCNode Title="WebViewControl Events" Url="html/04bb20e5-5b98-86bf-1771-a48d9428fee8.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="64832a8e-f3ae-474c-aa94-375de759f744" Title="Veeplay.utillities.UriHlsExtensions" Url="html/725d980b-de5b-a8b7-4ad6-493575e3eed8.htm">
-        <HelpTOCNode Id="07a339ef-96e7-4d3d-8653-d8be1e2ee651" Title="UriHlsExtensions Class" Url="html/eb547de3-b263-c649-4d68-99040b988190.htm">
-          <HelpTOCNode Id="2c613e6b-5ce0-4971-b906-3adb09fdc7ed" Title="UriHlsExtensions Methods" Url="html/c23c9a00-2205-7db8-5ef3-738cff00a2a1.htm">
+      <HelpTOCNode Id="c758a215-4ca2-4aab-9f14-239e95dad673" Title="Veeplay.utillities.UriHlsExtensions" Url="html/725d980b-de5b-a8b7-4ad6-493575e3eed8.htm">
+        <HelpTOCNode Id="70705277-2af9-4a9e-b0d5-7d1bd5cf6ad6" Title="UriHlsExtensions Class" Url="html/eb547de3-b263-c649-4d68-99040b988190.htm">
+          <HelpTOCNode Id="ac7ed8bb-8200-420f-8056-bb2fbf408dc5" Title="UriHlsExtensions Methods" Url="html/c23c9a00-2205-7db8-5ef3-738cff00a2a1.htm">
             <HelpTOCNode Title="IsHls Method " Url="html/80beadee-4570-d40b-0573-0ec29f70dccb.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="a5f8e03e-66d3-4230-a750-2548a7b25743" Title="Veeplay.vast" Url="html/67752674-b79a-8bf2-85e5-3c0fb67f494f.htm">
-      <HelpTOCNode Id="ecbc0ed0-761e-4e69-9201-f9fd14cac2bf" Title="VASTAdNode Class" Url="html/872a0e84-932f-07f2-ef0f-e49ccbfe14f0.htm">
+    <HelpTOCNode Id="6764e508-511d-48b3-896d-29241fb85290" Title="Veeplay.vast" Url="html/67752674-b79a-8bf2-85e5-3c0fb67f494f.htm">
+      <HelpTOCNode Id="47b76f7f-a2e7-4a48-aba3-62cde1004eec" Title="VASTAdNode Class" Url="html/872a0e84-932f-07f2-ef0f-e49ccbfe14f0.htm">
         <HelpTOCNode Title="VASTAdNode Constructor " Url="html/b302d413-8386-54d3-fa89-8295890ce47f.htm" />
-        <HelpTOCNode Id="7b2f601f-47ac-479b-93f6-58e5c30b31ef" Title="VASTAdNode Methods" Url="html/fcfd0456-eeab-0716-66e0-ca901857cdd3.htm">
+        <HelpTOCNode Id="cff49bc9-b562-438b-8ad6-85188615c4f4" Title="VASTAdNode Methods" Url="html/fcfd0456-eeab-0716-66e0-ca901857cdd3.htm">
           <HelpTOCNode Title="getInline Method " Url="html/7002c091-ca3b-1867-b2b2-4b4734a43f18.htm" />
           <HelpTOCNode Title="getMediaFiles Method " Url="html/17cd0a38-68b0-983a-5f08-cf36659a6796.htm" />
           <HelpTOCNode Title="getWrapper Method " Url="html/1100c54a-9686-5d79-c46d-9541552ff93c.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="VASTAdNode Properties" Url="html/aebdea17-423d-cebd-5031-c7204a0848c1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="2b91b505-5891-4600-a164-867d0783a6da" Title="VASTCompanionAdsNode Class" Url="html/13f07708-a18b-17df-55af-35d67a640967.htm">
+      <HelpTOCNode Id="c85ad6e7-c0f3-4be0-8ffe-f6031d191fa4" Title="VASTCompanionAdsNode Class" Url="html/13f07708-a18b-17df-55af-35d67a640967.htm">
         <HelpTOCNode Title="VASTCompanionAdsNode Constructor " Url="html/05d5c69e-ca99-461d-617e-240c572cd18f.htm" />
-        <HelpTOCNode Id="c858f606-2917-419a-903b-b22c59536a36" Title="VASTCompanionAdsNode Methods" Url="html/e58430e4-5008-adfb-4d96-c6af6f6890e3.htm">
+        <HelpTOCNode Id="f077e572-c2e7-473b-b34d-8e6eb8eeb0c9" Title="VASTCompanionAdsNode Methods" Url="html/e58430e4-5008-adfb-4d96-c6af6f6890e3.htm">
           <HelpTOCNode Title="companions Method " Url="html/fb96a190-0d4d-c85f-40e6-f2f39e6eaa6d.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="VASTCompanionAdsNode Properties" Url="html/ee451670-4f38-2520-5404-3803f22bbe64.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="cda02249-b3ff-443c-95e8-683db14056e7" Title="VASTCompanionNode Class" Url="html/a2ac9120-8375-78d8-7c85-049d35f4a2af.htm">
+      <HelpTOCNode Id="f66f09ad-9998-4b23-baf5-d4160b796103" Title="VASTCompanionNode Class" Url="html/a2ac9120-8375-78d8-7c85-049d35f4a2af.htm">
         <HelpTOCNode Title="VASTCompanionNode Constructor " Url="html/08f5de15-6144-d9d7-6e7d-c633dc9dec83.htm" />
         <HelpTOCNode Title="VASTCompanionNode Methods" Url="html/b485e2fb-c91a-ddeb-1fa5-c4e43f23582b.htm" />
         <HelpTOCNode Title="VASTCompanionNode Properties" Url="html/3a7682d4-551e-416b-0d34-9ed5c27ae372.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="547dbd17-2f20-4d3f-96ec-ae04eda87d40" Title="VASTCreativeNode Class" Url="html/5b560839-a643-0d82-466c-4b4e69536d59.htm">
+      <HelpTOCNode Id="9f36fc9e-eacd-48b2-873d-3edc046d2cc2" Title="VASTCreativeNode Class" Url="html/5b560839-a643-0d82-466c-4b4e69536d59.htm">
         <HelpTOCNode Title="VASTCreativeNode Constructor " Url="html/ae93bcaa-1e84-55be-f61f-eb4ea14a6d37.htm" />
-        <HelpTOCNode Id="1e2f4acd-e36f-4e66-abb0-398ae9671c84" Title="VASTCreativeNode Methods" Url="html/ed4c112d-51d1-fcbb-d90f-a0b35520d399.htm">
+        <HelpTOCNode Id="3af97a65-59ad-4331-8bf5-f64e7988e825" Title="VASTCreativeNode Methods" Url="html/ed4c112d-51d1-fcbb-d90f-a0b35520d399.htm">
           <HelpTOCNode Title="getCompanionAds Method " Url="html/4611ca3c-10a7-a148-942e-4372579d927f.htm" />
           <HelpTOCNode Title="getLinear Method " Url="html/1b777f07-e43b-8d6e-e0f1-854efd21961a.htm" />
           <HelpTOCNode Title="getNonlinearAds Method " Url="html/994508aa-6ecc-90b3-315e-792d77c6e454.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="VASTCreativeNode Properties" Url="html/072764fc-b8e3-ed8a-0f5f-7d6515aeba8d.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3a67aa03-8e1e-4a04-8bbf-7272c5ad5737" Title="VASTCreativeTypeNode Class" Url="html/c25840d1-de99-d114-77a1-3aef8eacd537.htm">
+      <HelpTOCNode Id="52189c9d-960e-4050-8e09-7b02c9d37daa" Title="VASTCreativeTypeNode Class" Url="html/c25840d1-de99-d114-77a1-3aef8eacd537.htm">
         <HelpTOCNode Title="VASTCreativeTypeNode Constructor " Url="html/1335e191-b1d6-2050-6ec0-8a66072b2f98.htm" />
-        <HelpTOCNode Id="7ef803a5-c8a0-40fe-a511-8687e9045319" Title="VASTCreativeTypeNode Methods" Url="html/99e311fd-a6ac-7a1c-1d3f-d4f08dae46ec.htm">
+        <HelpTOCNode Id="dc7ad927-40a2-40df-a7bf-e80fff55d013" Title="VASTCreativeTypeNode Methods" Url="html/99e311fd-a6ac-7a1c-1d3f-d4f08dae46ec.htm">
           <HelpTOCNode Title="mergeWith Method " Url="html/0a4f998e-1de4-a048-be90-36619633bff5.htm" />
           <HelpTOCNode Title="trackingEvents Method " Url="html/8f691682-0582-1cd9-81c9-46b1c2bd986e.htm" />
           <HelpTOCNode Title="trackingURLsByType Method " Url="html/c1439e33-8872-6eb4-1ac4-2a58929ad6d6.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="VASTCreativeTypeNode Properties" Url="html/2457ac23-6993-b870-2c5c-08be330c9dee.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="5d754293-426e-49d0-b57a-e13b0580102c" Title="VASTIconNode Class" Url="html/e738b647-534d-6f6b-677c-5a71f1ee905a.htm">
+      <HelpTOCNode Id="87b799e7-ecfe-488f-b245-0e607c744c6e" Title="VASTIconNode Class" Url="html/e738b647-534d-6f6b-677c-5a71f1ee905a.htm">
         <HelpTOCNode Title="VASTIconNode Constructor " Url="html/19c837ad-a800-cb50-df4d-e0c4483ef87e.htm" />
-        <HelpTOCNode Id="e1676f2d-39c6-4342-8cc5-fb8b04d09ba5" Title="VASTIconNode Methods" Url="html/d77775cb-2699-73ed-05d4-3c1d55dcf43e.htm">
+        <HelpTOCNode Id="3bfb1a35-0d7e-4f9f-8bf9-37b4ff23457b" Title="VASTIconNode Methods" Url="html/d77775cb-2699-73ed-05d4-3c1d55dcf43e.htm">
           <HelpTOCNode Title="clickThrough Method " Url="html/bc73afa3-674c-dce1-60dc-de2408f68f43.htm" />
           <HelpTOCNode Title="clickTrackingURLs Method " Url="html/015ec2fc-ede9-9aef-cc59-54ec8564e5bb.htm" />
           <HelpTOCNode Title="staticResource Method " Url="html/923ae809-b559-0c13-5d27-2f5aaf43be5c.htm" />
@@ -1075,12 +1075,12 @@
         </HelpTOCNode>
         <HelpTOCNode Title="VASTIconNode Properties" Url="html/5e600e0d-313d-b243-4d6a-c81e16dab901.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1d358d1d-8ff3-47f8-bb48-89035c3792f6" Title="VASTInLineNode Class" Url="html/b6c9727c-2b99-ff52-593a-23ef961fb7b6.htm">
+      <HelpTOCNode Id="a681861b-81f9-4f73-90ae-8f713371d372" Title="VASTInLineNode Class" Url="html/b6c9727c-2b99-ff52-593a-23ef961fb7b6.htm">
         <HelpTOCNode Title="VASTInLineNode Constructor " Url="html/fb32c0e4-af65-4b64-935f-e339758f58c8.htm" />
-        <HelpTOCNode Id="9ddd392e-1210-47c2-bd72-034ebb11f181" Title="VASTInLineNode Fields" Url="html/988a56ac-5107-ccbe-0927-7b417b913b6d.htm">
+        <HelpTOCNode Id="67402fe5-293e-467b-ad47-d76a55909f95" Title="VASTInLineNode Fields" Url="html/988a56ac-5107-ccbe-0927-7b417b913b6d.htm">
           <HelpTOCNode Title="sourceIndex Field" Url="html/86a19673-a983-0988-93a1-137e236d13fa.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="d3a65270-d208-4256-8ee1-74fe3586d9f4" Title="VASTInLineNode Methods" Url="html/dc07cd19-8616-0cd0-2c24-919c885568c5.htm">
+        <HelpTOCNode Id="8267e7ef-fa1e-4722-a31e-c9e930bbabbc" Title="VASTInLineNode Methods" Url="html/dc07cd19-8616-0cd0-2c24-919c885568c5.htm">
           <HelpTOCNode Title="aggregateWithWrapper Method " Url="html/45f1fd84-875f-5b9b-e968-2afbe3b98f4e.htm" />
           <HelpTOCNode Title="creativeAtIndex Method " Url="html/2040fe98-3c01-7388-080e-aee1a5d6c7a6.htm" />
           <HelpTOCNode Title="creatives Method " Url="html/a11b7616-bbf0-81bf-f8a0-2223d1113299.htm" />
@@ -1090,9 +1090,9 @@
         </HelpTOCNode>
         <HelpTOCNode Title="VASTInLineNode Properties" Url="html/cf1bd8b5-7ed4-d776-782f-5996593037bd.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="dc9322c6-1a68-469d-9f1a-0cfbc1f340bc" Title="VASTLinearNode Class" Url="html/78249f23-349e-d87b-8bd2-578d95f40c67.htm">
+      <HelpTOCNode Id="f849838b-355b-47ff-8368-8d1a5323c4c7" Title="VASTLinearNode Class" Url="html/78249f23-349e-d87b-8bd2-578d95f40c67.htm">
         <HelpTOCNode Title="VASTLinearNode Constructor " Url="html/cfd18ce1-c34a-49ef-582c-b8a55eecca2f.htm" />
-        <HelpTOCNode Id="a2cf9185-2131-43fc-83a8-bc61efe5243e" Title="VASTLinearNode Methods" Url="html/1daa72d7-4d53-392b-d967-fa1ff08c623c.htm">
+        <HelpTOCNode Id="75c264a8-08dd-4733-82bf-351aaf59da8c" Title="VASTLinearNode Methods" Url="html/1daa72d7-4d53-392b-d967-fa1ff08c623c.htm">
           <HelpTOCNode Title="clickThrough Method " Url="html/07e34719-3983-170b-f22f-07c2dee5b103.htm" />
           <HelpTOCNode Title="clickTrackingURLs Method " Url="html/375fca17-57fa-bfe8-b3ae-093ad8cd59a3.htm" />
           <HelpTOCNode Title="icons Method " Url="html/b4eb9041-8f79-36ed-e622-3a52a2b5e463.htm" />
@@ -1101,9 +1101,9 @@
         </HelpTOCNode>
         <HelpTOCNode Title="VASTLinearNode Properties" Url="html/ad447173-73d3-27c9-645e-73c7a0cc0bba.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="bed7fd87-8614-4fd1-81e6-fa111caf33e1" Title="VASTMediaFileNode Class" Url="html/962a1434-82c4-cde4-81f2-abe3e2a880c6.htm">
+      <HelpTOCNode Id="2a980606-85ae-4dae-898a-f8d60c83e04d" Title="VASTMediaFileNode Class" Url="html/962a1434-82c4-cde4-81f2-abe3e2a880c6.htm">
         <HelpTOCNode Title="VASTMediaFileNode Constructor " Url="html/e2230d33-dc2e-fd01-4195-b2fd5499d1d5.htm" />
-        <HelpTOCNode Id="20a7667f-613f-4346-b31d-f61ae867c36d" Title="VASTMediaFileNode Methods" Url="html/1edfda89-2568-17ca-b211-40e98bb9d6e6.htm">
+        <HelpTOCNode Id="2645ff8a-2b2a-4b1c-9c9e-9a6003f7d5aa" Title="VASTMediaFileNode Methods" Url="html/1edfda89-2568-17ca-b211-40e98bb9d6e6.htm">
           <HelpTOCNode Title="bitrate Method " Url="html/cea92583-58f3-0b52-7c0c-c667e2164f06.htm" />
           <HelpTOCNode Title="delivery Method " Url="html/c630229f-5372-3ee8-eb53-b8cd6db531c3.htm" />
           <HelpTOCNode Title="type Method " Url="html/88615135-e14b-645d-2647-aa740181cf3b.htm" />
@@ -1111,17 +1111,17 @@
         </HelpTOCNode>
         <HelpTOCNode Title="VASTMediaFileNode Properties" Url="html/6963c2c9-b618-a563-3fe3-2b6fed1206b5.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a0f7379a-81b2-4eb9-b831-44013b760bcc" Title="VASTNonLinearAdsNode Class" Url="html/d16bafa4-baa6-2cf3-e5d2-308d9c543494.htm">
+      <HelpTOCNode Id="bc3d7f1f-32e0-4ea6-be4c-331bd6bb80ca" Title="VASTNonLinearAdsNode Class" Url="html/d16bafa4-baa6-2cf3-e5d2-308d9c543494.htm">
         <HelpTOCNode Title="VASTNonLinearAdsNode Constructor " Url="html/1f66c265-baec-81d0-8dd6-153cf11f43ca.htm" />
-        <HelpTOCNode Id="3b5bd5fd-55be-4314-9c89-224cedfe7c5e" Title="VASTNonLinearAdsNode Methods" Url="html/b50bb436-05a1-24da-792b-ff8c3a7f9fcb.htm">
+        <HelpTOCNode Id="14cde53b-de61-4565-92e3-6f0108f280ad" Title="VASTNonLinearAdsNode Methods" Url="html/b50bb436-05a1-24da-792b-ff8c3a7f9fcb.htm">
           <HelpTOCNode Title="nonlinears Method " Url="html/6d292e6e-f5c3-5d78-e475-9f66b5ec183f.htm" />
           <HelpTOCNode Title="nonLinearsByType Method " Url="html/9938c47d-45e4-9def-55f2-e8f0ac6dfc33.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="VASTNonLinearAdsNode Properties" Url="html/0f388978-3adf-7087-8928-59493adfe753.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="ad82ef58-4610-481a-82b1-2302e0c4c433" Title="VASTNonLinearNode Class" Url="html/a5038063-3747-832d-671b-8eb1a3c96fc7.htm">
+      <HelpTOCNode Id="c6b2e6ce-e238-426f-ab5f-74e381771226" Title="VASTNonLinearNode Class" Url="html/a5038063-3747-832d-671b-8eb1a3c96fc7.htm">
         <HelpTOCNode Title="VASTNonLinearNode Constructor " Url="html/e0b54660-2ab5-29da-8af5-8cdd4b917b84.htm" />
-        <HelpTOCNode Id="ab1ab0ce-6bd1-4514-ada0-f5488d0246fa" Title="VASTNonLinearNode Methods" Url="html/8e4b1dd4-3146-b3ab-8ba2-b01808f3f02c.htm">
+        <HelpTOCNode Id="a1b5f602-d419-475d-a824-731de0921ea8" Title="VASTNonLinearNode Methods" Url="html/8e4b1dd4-3146-b3ab-8ba2-b01808f3f02c.htm">
           <HelpTOCNode Title="clickThrough Method " Url="html/425c7875-7915-1aff-6f16-10da97d4258b.htm" />
           <HelpTOCNode Title="clickTrackingURLs Method " Url="html/af30d4cd-2173-9e9d-85f5-13240aa013ed.htm" />
           <HelpTOCNode Title="htmlResource Method " Url="html/04a2f98f-2de6-c273-d487-1b1a1f092d3c.htm" />
@@ -1131,27 +1131,27 @@
         </HelpTOCNode>
         <HelpTOCNode Title="VASTNonLinearNode Properties" Url="html/778b69b5-c8c1-ffe2-f90e-9eaf10f0224c.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a03a6a5d-29db-42c9-8196-d63ff4c864aa" Title="VASTRootNode Class" Url="html/1c90a36f-200b-6514-46fc-c52fe1f1fe53.htm">
+      <HelpTOCNode Id="acaf7e9c-bba5-488a-ad63-72aa7de61a47" Title="VASTRootNode Class" Url="html/1c90a36f-200b-6514-46fc-c52fe1f1fe53.htm">
         <HelpTOCNode Title="VASTRootNode Constructor " Url="html/02106056-7d19-f0ea-0da8-e3b38fcc13d4.htm" />
-        <HelpTOCNode Id="55861ccb-ff83-4e8d-af77-f3dc6f271bb6" Title="VASTRootNode Methods" Url="html/e4d40ed9-2ff4-38e9-a50e-c385f4569c5e.htm">
+        <HelpTOCNode Id="49cd5ec2-1682-4bbd-9f93-b0f4f6b97e74" Title="VASTRootNode Methods" Url="html/e4d40ed9-2ff4-38e9-a50e-c385f4569c5e.htm">
           <HelpTOCNode Title="allAds Method " Url="html/7a867af0-0829-9b70-b2af-01763d8ff189.htm" />
           <HelpTOCNode Title="getAdsWithFallback Method " Url="html/bbb03c1b-d83b-07a2-a1dd-59d0f5540434.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="VASTRootNode Properties" Url="html/f9152311-9d0c-8e37-e31f-93ddd8c33312.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="VASTRootNode.AdPodFallback Enumeration" Url="html/0550784f-0458-1281-9427-25f939c97edd.htm" />
-      <HelpTOCNode Id="522f30d5-80bf-430f-862c-16b29144c9b5" Title="VASTWrapperNode Class" Url="html/58ec1fab-331f-f90b-49ac-665e8fbe6c3a.htm">
+      <HelpTOCNode Id="bc358220-eb03-43e5-a04a-079ed8164cff" Title="VASTWrapperNode Class" Url="html/58ec1fab-331f-f90b-49ac-665e8fbe6c3a.htm">
         <HelpTOCNode Title="VASTWrapperNode Constructor " Url="html/62f9babc-e8b2-4b35-5058-389c645c936e.htm" />
         <HelpTOCNode Title="VASTWrapperNode Fields" Url="html/e32b59fb-f0cb-724e-2a05-95bf93fd3f49.htm" />
-        <HelpTOCNode Id="522276d2-a43d-4214-a3cc-ff3e839671e8" Title="VASTWrapperNode Methods" Url="html/1a8f611e-1e8e-aef1-cd6a-2aa637a53c3b.htm">
+        <HelpTOCNode Id="5c4b9599-0006-4714-b8b0-4c823ac94dd2" Title="VASTWrapperNode Methods" Url="html/1a8f611e-1e8e-aef1-cd6a-2aa637a53c3b.htm">
           <HelpTOCNode Title="creatives Method " Url="html/5cdd419f-94ad-57b1-d101-440d456a66d9.htm" />
           <HelpTOCNode Title="nextURL Method " Url="html/275a455e-f993-39aa-a5f5-9c4af9a3f894.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="VASTWrapperNode Properties" Url="html/dd3462b8-e808-f710-dae2-d630ebc55534.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="67228e8e-5146-46d4-8391-4fe315b11199" Title="VASTXMLNode Class" Url="html/f0bb0e6b-c60e-44a9-80b2-4d7592d1d078.htm">
+      <HelpTOCNode Id="d22485e9-fc33-4a66-9b48-8e306199457e" Title="VASTXMLNode Class" Url="html/f0bb0e6b-c60e-44a9-80b2-4d7592d1d078.htm">
         <HelpTOCNode Title="VASTXMLNode Constructor " Url="html/1e739cec-23af-372e-1444-d32d1d3f0d9b.htm" />
-        <HelpTOCNode Id="8f1c11bd-c39f-43bf-958b-73e6dc89e65c" Title="VASTXMLNode Methods" Url="html/aee49822-da95-99e6-b189-1bef8986430c.htm">
+        <HelpTOCNode Id="fa4deefe-798f-4633-b8df-99249ef9c631" Title="VASTXMLNode Methods" Url="html/aee49822-da95-99e6-b189-1bef8986430c.htm">
           <HelpTOCNode Title="addChildrenwithName Method " Url="html/f003ea8f-e837-8453-6b8f-99d159a2956c.htm" />
           <HelpTOCNode Title="addChildwithName Method " Url="html/f1a0c3e2-c356-0427-a9c0-69359a19bfc3.htm" />
           <HelpTOCNode Title="childrenNamed Method " Url="html/e9c4c9f1-6bd5-e925-2211-de200205cfdf.htm" />
@@ -1169,7 +1169,7 @@
           <HelpTOCNode Title="urlsForChildrenNamed Method " Url="html/d3c83767-b4c4-489f-02f6-b22abb691c35.htm" />
           <HelpTOCNode Title="urlsForCurrentNode Method " Url="html/cc16830e-3c3f-4893-5d4d-ac86ff86f3eb.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="cd932f1b-fe83-4d03-aa20-a589a8c52339" Title="VASTXMLNode Properties" Url="html/8a5be7ba-bda7-9ec3-68f4-4d32aa0359b3.htm">
+        <HelpTOCNode Id="ecc677e3-1e09-4403-9d1e-7c73c0db3bb2" Title="VASTXMLNode Properties" Url="html/8a5be7ba-bda7-9ec3-68f4-4d32aa0359b3.htm">
           <HelpTOCNode Title="attributes Property " Url="html/be4d0da5-eb01-28ff-16a0-d8215298a7a4.htm" />
           <HelpTOCNode Title="value Property " Url="html/859e515d-2f35-5016-605f-e43c5993b2ca.htm" />
         </HelpTOCNode>
